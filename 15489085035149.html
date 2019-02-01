@@ -1,0 +1,377 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>
+    
+  iText - OCR 截图识字 - 羊村科技
+  
+
+  </title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link href="asset/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="atom.xml" rel="alternate" title="羊村科技" type="application/atom+xml">
+  <script src="asset/js/modernizr-2.0.js"></script>
+  <script src="asset/js/jquery.min.js"></script>
+  <script src="asset/highlightjs/highlight.pack.js"></script>
+  <link href="asset/highlightjs/styles/solarized_light.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script>hljs.initHighlightingOnLoad();</script>
+
+  <style type="text/css">
+  .cat-children-p{ padding: 6px 0px;}
+  .hljs{background: none;}
+  </style>
+  <script type="text/javascript">
+  var isAddSildbar = true;
+  </script>
+  <script src="asset/js/octopress.js" type="text/javascript"></script>
+</head>
+<script type="text/javascript">
+//链接新开窗口
+function addBlankTargetForLinks () {
+  $('a[href^="http"]').each(function(){
+      $(this).attr('target', '_blank');
+  });
+}
+$(document).ready(function(event) {
+  addBlankTargetForLinks();
+});
+</script>
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="index.html">羊村科技</a></h1>
+  
+    <h2></h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:www.yangcun.ml" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+
+  <li id=""><a target="_self" href="index.html">主页</a></li>
+
+  <li id=""><a target="_self" href="archives.html">存档</a></li>
+
+  <li id=""><a target="_blank" href="links.html">外部资源</a></li>
+
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content"> 
+<div>
+	<article class="hentry" role="article">
+	<header>
+			  	<h1 class="entry-title">iText - OCR 截图识字</h1>
+				<p class="meta"><time datetime="2019-01-30T22:21:43-06:00" pubdate data-updated="true">2019/1/30</time></p>
+			 </header>
+		  	<div class="entry-content">
+			  	<p>iText 是一款从图片中识别文字的 OCR 工具。</p>
+
+<p>典型使用场景：</p>
+
+<p>从扫描版 PDF 中提取文字<br/>
+从朋友发来的图片中识别文字<br/>
+从任意图片中识字<br/>
+<span id="more"></span><!-- more --></p>
+
+<h2 id="toc_0">1. 选取图片方便</h2>
+
+<p>iText 支持多种方式选择图片，操作非常便利。</p>
+
+<h3 id="toc_1">1.1 截图即识字</h3>
+
+<p>iText 自带截图功能，只需按下<code>⇧⌘1</code>快捷键、截取屏幕任意位置，即可提取该图片中的文字。<img src="media/15489085035149/006tKfTcgy1flx120m504g30la09qkin.gif" alt="006tKfTcgy1flx120m504g30la09qkin"/></p>
+
+<p>小提示：识别后的文字已经复制到系统剪贴板，直接粘贴即可。</p>
+
+<h3 id="toc_2">1.2 拖拽图片至菜单栏图标识字</h3>
+
+<p>比如，当你在电脑上使用微信、QQ 时，好友发了张图片（比如手机拍摄的快递单），你想识别其中的文字（比如快递单号），只需将该图片拖拽至 iText 菜单栏图标即可。<br/>
+<img src="media/15489085035149/006tKfTcgy1flx11nta4zg30hk0bskdz.gif" alt="006tKfTcgy1flx11nta4zg30hk0bskdz"/></p>
+
+<h3 id="toc_3">1.3 选择图片文件识字</h3>
+
+<p>当然，也可以在对话框中选择图片文件。不过，个人还是建议你直接把该图片文件拖拽至 iText 菜单栏图标，操作直观高效。</p>
+
+<h3 id="toc_4">1.4 支持连续识别</h3>
+
+<p>比如，连续截取 PDF 不同位置的图片，iText 将依次识别其中的文本，并自动将结果拼接在一起。<br/>
+<img src="media/15489085035149/mvrl6.png" alt="mvr"/></p>
+
+<h2 id="toc_5">2. 文字识别精准</h2>
+
+<p><strong>你有没有这种经历：</strong>你想从一张图片中提取文字，结果发现识别的文字中有一些错误。结果，手动修改这些错误的时间，比自己直接在电脑上码字的时间还要长。是不是很尴尬？</p>
+
+<p>可见，<strong>识别的准确性非常重要</strong>，也是我非常在意的一点。</p>
+
+<h3 id="toc_6">2.1 腾讯、百度、Google 三引擎</h3>
+
+<p><strong>首先，我排除了离线的识别库，</strong>因为离线注定了这些库的识别能力是死的，不会自己增强。接下来，在一票在线 OCR 服务中，我对比了百度、腾讯、微软、Google 这些四家大厂的产品，最后选择了**国内使用腾讯及百度、国外使用 Google **的组合。</p>
+
+<p><img src="media/15489085035149/15489086794460.jpg" alt=""/></p>
+
+<p>如果你有 Google 信仰、或者需要识别日文等其他语言，可以右击 iText 菜单栏图标，手动选择使用腾讯、百度或 Google OCR 服务。不过，从实测和目前优化的情况来看，中文还是建议使用腾讯；大家可以自行测试。</p>
+
+<p>那么，到底识别准不准呢？这么说吧：</p>
+
+<ul>
+<li><strong>对于一般的自然语言</strong>，比如书中的一段话、新闻稿，<strong>识别效果是惊人的准确，甚至可以达到 100%</strong></li>
+<li><strong>对于排版复杂、尤其有特殊字符的文字</strong>，比如程序代码、选择题，识别效果就不太理想，<strong>需要手动对识别后的结果进行修正</strong>
+<ul>
+<li>比如，单纯地给一个竖线，机器是无法区分到底是小写的 l、还是大写的 I（顺便问一下，你看出二者的区别了吗？）；与之相对，<strong>机器是需要根据上下文进行判断和优化的</strong>。而像程序代码这种非自然语言，机器目前是很难进行语义识别的</li>
+</ul></li>
+</ul>
+
+<p>到底准不准？欢迎你来试试。</p>
+
+<h3 id="toc_7">2.2 独创算法，进一步优化识别结果</h3>
+
+<p>OCR 服务完成最好的是字符的识别；但更进一步的识别，目前还不是很好，比如段落的识别、全角半角符号等等，这就需要程序后期进行优化。</p>
+
+<p>目前，iText 主要完成了这些部分的优化：</p>
+
+<ul>
+<li>自动识别段落</li>
+<li>中文环境使用全角标点符号</li>
+<li>中文与英文字母、数字间增加空格</li>
+<li>删除中文字符间、英文字符与标点符号间的多余空格</li>
+<li>英文首字母大写</li>
+</ul>
+
+<p>如果你发现优化的不好的地方，欢迎把图发给我，我会相应地优化算法，先谢。</p>
+
+<p><strong>2.3 预览原图，方便校对</strong><br/>
+在目前 OCR 技术不能始终达到 100% 的情况下，预览原图、并进行修正，还是有必要的。在 iText 中，你可以这样：</p>
+
+<ul>
+<li>将识别后的窗口拖到图片附近</li>
+<li>调用 iText 识别结果的 双栏模式：左侧展示图片、右侧展示识别后的文字
+<ul>
+<li>可使用快捷键<code>⇧⌘R</code>快速调出识别结果窗</li>
+</ul></li>
+</ul>
+
+<p><img src="media/15489085035149/15489088622531.jpg" alt=""/></p>
+
+<p>这样，就可以很方便地对照原图进行手动优化识别后的文字。</p>
+
+<h3 id="toc_8">2.4 自动隐藏识别结果</h3>
+
+<p>由于 iText 的识别结果已经非常准确，且已经复制到剪贴板，因此识别后并不需要编辑或复制文本。此时，你可以如上图所示，开启「自动隐藏」选项，识别结果窗口将会在 3s 后自动隐藏，非常方便。</p>
+
+<p>并且，如果临时需要编辑某次识别结果，只要将鼠标移至结果窗口，则会暂时忽略自动隐藏功能。另外，开启「总在最前」选项后，窗口将不会自动隐藏。</p>
+
+<h2 id="toc_9">3. 识别后自动翻译</h2>
+
+<p>比如，对于英文版的 PDF、未翻译的字幕、未汉化的游戏，直接用 iText 截图，自动翻译为中文。<br/>
+<img src="media/15489085035149/006tNc79gy1fmytn28rkwg30iw0ayb29.gif" alt="006tNc79gy1fmytn28rkwg30iw0ayb29"/></p>
+
+<p>集成 Google、百度双引擎（优先选用 Google，当无法访问 Google 时使用百度），支持 100+ 种语言。</p>
+
+<h2 id="toc_10">4. 下载与付费</h2>
+
+<p>每月可免费识别 20 次，充分体验产品功能；订阅 iText 高级版即可无限次识别。</p>
+
+<p><a href="https://itunes.apple.com/cn/app/id1314980676?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iText_me"><img src="media/15489085035149/15489089134473.jpg" alt=""/></a></p>
+
+<p><a href="http://t.cn/EtYAe73">网盘下载 </a><br/>
+<code>先安装低版本，再用高版本覆盖，不要升级</code></p>
+
+			</div>
+
+		
+	  
+		<footer>
+		 <p class="meta">
+
+			<strong>Categories:</strong>&nbsp; 
+			<span class="categories">
+			
+			    <a class='category' href='Resources.html'>资源 | Resources</a>&nbsp;
+			 
+			</span>
+		    </p>
+		    <p class="meta">
+		      
+		 </p>
+	    
+		<div class="sharing">
+		  <script>
+var idcomments_acct = '242a12d34c2c9f38d89a69b562f2dafb';
+var idcomments_post_id;
+var idcomments_post_url;
+</script>
+<span id="IDCommentsPostTitle" style="display:none"></span>
+<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
+          
+
+          
+
+		</div>
+
+	    <p class="meta">
+	    
+	        <a class="basic-alignment left" href="15489461191227.html" 
+	        title="Previous Post: 混沌大学 2018年1月~12月  合集">&laquo; 混沌大学 2018年1月~12月  合集</a>
+	    
+	    
+	        <a class="basic-alignment right" href="15489020435104.html" 
+	        title="Next Post: Chapter 2 The Camera">Chapter 2 The Camera &raquo;</a>
+	    
+	    </p>
+	  </footer>
+	</article>
+</div>
+ <aside class="sidebar"> 
+
+	<section>
+	  <h1>Categories</h1>
+	  <ul id="recent_posts">
+	  
+	      <li class="post">
+	        <a href="Resources.html"><strong>资源 | Resources&nbsp;(4)</strong></a>
+	        
+	        
+	        
+	      </li>
+	  
+	      <li class="post">
+	        <a href="Ebooks.html"><strong>电子书 | Ebooks&nbsp;(2)</strong></a>
+	        
+	        
+	        
+	      </li>
+	  
+	      <li class="post">
+	        <a href="%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3%20%7C%20Websites.html"><strong>网站相关 | Websites&nbsp;(1)</strong></a>
+	        
+	        
+	        
+	      </li>
+	  
+	      <li class="post">
+	        <a href="Basic_Photography.html"><strong>Basic Photography&nbsp;(4)</strong></a>
+	        
+	        
+	        
+	      </li>
+	  
+	      <li class="post">
+	        <a href="thoughts.html"><strong>读书笔记 | Notes&nbsp;(4)</strong></a>
+	         <p class="cat-children-p"> 
+	        
+	        	<a href="Writing.html">写作 | Writing&nbsp;(2)</a>&nbsp;&nbsp;
+	        
+	        	<a href="Design.html">设计 | Design&nbsp;(1)</a>&nbsp;&nbsp;
+	        
+	        	<a href="PowerPoint.html">PowerPoint&nbsp;(1)</a>&nbsp;&nbsp;
+	        
+	         </p> 
+	      </li>
+	  
+	      <li class="post">
+	        <a href="Link.html"><strong>Link&nbsp;(1)</strong></a>
+	        
+	        
+	        
+	      </li>
+	   
+	  </ul>
+	</section>
+	<section>
+	  <h1>Recent Posts</h1>
+	  <ul id="recent_posts">
+	  
+	      
+		      <li class="post">
+		        <a href="15490386721045.html">艰难的生活是怎样炼成的。</a>
+		      </li>
+	     
+	  
+	      
+		      <li class="post">
+		        <a href="15489800873969.html"></a>
+		      </li>
+	     
+	  
+	      
+		      <li class="post">
+		        <a href="15489651912346.html">中国风PPT</a>
+		      </li>
+	     
+	  
+	      
+		      <li class="post">
+		        <a href="feixugouxiezuo.html">非虚构写作</a>
+		      </li>
+	     
+	  
+	      
+		      <li class="post">
+		        <a href="chenxianziti.html">衬线字体</a>
+		      </li>
+	     
+	  
+	      
+	  
+	      
+	  
+	      
+	  
+	      
+	  
+	      
+	  
+	      
+	  
+	      
+	  
+	      
+	  
+	      
+	  
+	      
+	  
+	      
+	   
+	  </ul>
+	</section>
+	
+</aside> </div></div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2014 -  -
+  <span class="credit">Powered by <a target="_blank" href="http://www.mweb.im">MWeb</a> &nbsp;&nbsp; Theme by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+
+  
+    
+
+
+
+
+</body>
+</html>
