@@ -4,7 +4,7 @@
   <title><![CDATA[羊村科技]]></title>
   <link href="http://www.yangcun.ml/atom.xml" rel="self"/>
   <link href="http://www.yangcun.ml/"/>
-  <updated>2019-02-01T16:35:00-06:00</updated>
+  <updated>2019-02-01T19:57:11-06:00</updated>
   <id>http://www.yangcun.ml/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://www.coderforart.com/">CoderForArt</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://www.yangcun.ml/15490726182338.html"/>
+    <updated>2019-02-01T19:56:58-06:00</updated>
+    <id>http://www.yangcun.ml/15490726182338.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[艰难的生活是怎样炼成的。]]></title>
