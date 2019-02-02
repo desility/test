@@ -84,6 +84,89 @@ $(document).ready(function(event) {
 
 	<article>
 		 <header>
+		  	<h1 class="entry-title"><a href="15490730271859.html">设置Mweb对Github的自动发布</a></h1>
+			<p class="meta"><time datetime="2019-02-01T20:03:47-06:00" 
+			pubdate data-updated="true">2019/2/1</time></p>
+		 </header>
+	  	<div class="entry-content">
+		  	
+		  	<h2 id="toc_0">修改zshrc</h2>
+
+<p>Mac终端进入Root权限修改oh My zsh的.zshrc文件<br/>
+设置oh my zsh的.zshrc配置文件 <code>vi ~/.zshrc</code> 保存时 老提示我没权限修改<br/>
+之后查了n久才发现 原来要Root权限</p>
+
+<h3 id="toc_1">设置root权限用户及密码：</h3>
+
+<ul>
+<li><p>终端输入 <code>sudo passwd root</code></p></li>
+<li><p>首次登录需设置密码</p></li>
+<li><p>非首次按提示输入当前登录用户密码</p></li>
+</ul>
+
+<h3 id="toc_2">登录root权限</h3>
+
+<blockquote>
+<ul>
+<li>输入 <code>su root</code> 切换root用户，然后输入password，刚刚键入的密码就可以了</li>
+</ul>
+</blockquote>
+
+<ul>
+<li>输入 <code>vi .zshrc</code> 即可修改配置</li>
+</ul>
+
+<p>然后就可以修改oh my zsh的.zshrc配置文件了</p>
+
+<h2 id="toc_3">打开终端后自动执行发布脚本</h2>
+
+<p>这个方法是：<a href="https://github.com/bramblex/">https://github.com/bramblex/</a> 这位朋友分享的，非常感谢，这位朋友的原文如下：</p>
+
+<p>mWeb 现在的只能复制执行脚本命令, 并且打开终端嘛.</p>
+
+<p>那么打开终端的时候会自动执行 bashrc / zshrc 文件, 那在 bashrc / zshrc 里面加入检测剪贴板并且自动发布的脚本就能实现打开终端后自动执行发布脚本了.</p>
+
+<pre><code class="language-text">&lt;!--在 ~/.zshrc 或 ~/.bashrc 添下面代码, 就能实现自动执行发布脚本--&gt;
+&lt;!--https://gist.github.com/bramblex/a6b12543a076e2c1fa5acecb95f51ead--&gt;
+
+if (pbpaste  | grep -Eq  &#39;^cd &quot;[^&quot;]*&quot; &amp;&amp; sh &quot;[^&quot;]*/site_publish_logs/sh_\d*\.sh&quot; &amp;&amp; open &quot;[^&quot;]*&quot;&#39;) 
+then
+    echo &quot;========== MWEB AUTO PUBLISH START ==========&quot; 
+    echo &quot;Runing command:&quot;
+    pbpaste
+
+    if pbpaste | sh
+    then
+
+        echo &quot;Success!&quot;
+        echo &quot;Clean pasteboard...&quot;
+        echo -n &quot;&quot; | pbcopy
+        echo &quot;==========  MWEB AUTO PUBLISH END  ==========&quot;
+        echo &quot;Close terminal 5s later...&quot;
+        sleep 5
+        exit
+
+    else
+
+        echo &quot;Failed!&quot;
+        echo &quot;Clean pasteboard...&quot;
+        echo -n &quot;&quot; | pbcopy
+        echo &quot;==========  MWEB AUTO PUBLISH END  ==========&quot;
+
+    fi
+
+fi
+</code></pre>
+
+
+		</div>
+
+		
+
+	</article>
+ 
+	<article>
+		 <header>
 		  	<h1 class="entry-title"><a href="15489009430810.html">IntenseDebate</a></h1>
 			<p class="meta"><time datetime="2019-01-30T20:15:43-06:00" 
 			pubdate data-updated="true">2019/1/30</time></p>
@@ -133,7 +216,7 @@ $(document).ready(function(event) {
 	      </li>
 	  
 	      <li class="post">
-	        <a href="%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3%20%7C%20Websites.html"><strong>网站相关 | Websites&nbsp;(1)</strong></a>
+	        <a href="%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3%20%7C%20Websites.html"><strong>网站相关 | Websites&nbsp;(2)</strong></a>
 	        
 	        
 	        
@@ -167,6 +250,12 @@ $(document).ready(function(event) {
 	  
 	      
 		      <li class="post">
+		        <a href="15490730271859.html">设置Mweb对Github的自动发布</a>
+		      </li>
+	     
+	  
+	      
+		      <li class="post">
 		        <a href="15490386721045.html">艰难的生活是怎样炼成的。</a>
 		      </li>
 	     
@@ -190,10 +279,6 @@ $(document).ready(function(event) {
 	     
 	  
 	      
-		      <li class="post">
-		        <a href="15489464034509.html">香帅的北大金融学课 （完结版）</a>
-		      </li>
-	     
 	  
 	      
 	  
