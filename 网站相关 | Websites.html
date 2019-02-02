@@ -90,78 +90,19 @@ $(document).ready(function(event) {
 		 </header>
 	  	<div class="entry-content">
 		  	
-		  	<h2 id="toc_0">修改zshrc</h2>
+		  	<p>使用方法非常简单，右键网站分类，选择 “复制发布脚本命令并打开终端（Terminal）...”，当终端打开后，在终端中按快捷键 <code>Command + V</code> 即可。如图：<br/>
+<img src="media/15490730271859/15490736283456.jpg" alt=""/><br/>
+<img src="media/15490730271859/15490737708574.jpg" alt="" style="width:617px;"/></p>
 
-<p>Mac终端进入Root权限修改oh My zsh的.zshrc文件<br/>
-设置oh my zsh的.zshrc配置文件 <code>vi ~/.zshrc</code> 保存时 老提示我没权限修改<br/>
-之后查了n久才发现 原来要Root权限</p>
-
-<h3 id="toc_1">设置root权限用户及密码：</h3>
-
-<ul>
-<li><p>终端输入 <code>sudo passwd root</code></p></li>
-<li><p>首次登录需设置密码</p></li>
-<li><p>非首次按提示输入当前登录用户密码</p></li>
-</ul>
-
-<h3 id="toc_2">登录root权限</h3>
-
-<blockquote>
-<ul>
-<li>输入 <code>su root</code> 切换root用户，然后输入password，刚刚键入的密码就可以了</li>
-</ul>
-</blockquote>
-
-<ul>
-<li>输入 <code>vi .zshrc</code> 即可修改配置</li>
-</ul>
-
-<p>然后就可以修改oh my zsh的.zshrc配置文件了</p>
-
-<h2 id="toc_3">打开终端后自动执行发布脚本</h2>
-
-<p>这个方法是：<a href="https://github.com/bramblex/">https://github.com/bramblex/</a> 这位朋友分享的，非常感谢，这位朋友的原文如下：</p>
-
-<p>mWeb 现在的只能复制执行脚本命令, 并且打开终端嘛.</p>
-
-<p>那么打开终端的时候会自动执行 bashrc / zshrc 文件, 那在 bashrc / zshrc 里面加入检测剪贴板并且自动发布的脚本就能实现打开终端后自动执行发布脚本了.</p>
-
-<pre><code class="language-text">&lt;!--在 ~/.zshrc 或 ~/.bashrc 添下面代码, 就能实现自动执行发布脚本--&gt;
-&lt;!--https://gist.github.com/bramblex/a6b12543a076e2c1fa5acecb95f51ead--&gt;
-
-if (pbpaste  | grep -Eq  &#39;^cd &quot;[^&quot;]*&quot; &amp;&amp; sh &quot;[^&quot;]*/site_publish_logs/sh_\d*\.sh&quot; &amp;&amp; open &quot;[^&quot;]*&quot;&#39;) 
-then
-    echo &quot;========== MWEB AUTO PUBLISH START ==========&quot; 
-    echo &quot;Runing command:&quot;
-    pbpaste
-
-    if pbpaste | sh
-    then
-
-        echo &quot;Success!&quot;
-        echo &quot;Clean pasteboard...&quot;
-        echo -n &quot;&quot; | pbcopy
-        echo &quot;==========  MWEB AUTO PUBLISH END  ==========&quot;
-        echo &quot;Close terminal 5s later...&quot;
-        sleep 5
-        exit
-
-    else
-
-        echo &quot;Failed!&quot;
-        echo &quot;Clean pasteboard...&quot;
-        echo -n &quot;&quot; | pbcopy
-        echo &quot;==========  MWEB AUTO PUBLISH END  ==========&quot;
-
-    fi
-
-fi
-</code></pre>
 
 
 		</div>
 
-		
+		 
+		 <footer>
+      	<a rel="full-article" href="15490730271859.html#more">read more &rarr;</a>
+    	</footer>
+    	
 
 	</article>
  

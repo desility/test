@@ -4,7 +4,7 @@
   <title><![CDATA[羊村科技]]></title>
   <link href="http://www.yangcun.ml/atom.xml" rel="self"/>
   <link href="http://www.yangcun.ml/"/>
-  <updated>2019-02-01T20:02:56-06:00</updated>
+  <updated>2019-02-01T20:10:47-06:00</updated>
   <id>http://www.yangcun.ml/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -19,6 +19,12 @@
     <updated>2019-02-01T20:03:47-06:00</updated>
     <id>http://www.yangcun.ml/15490730271859.html</id>
     <content type="html"><![CDATA[
+<p>使用方法非常简单，右键网站分类，选择 “复制发布脚本命令并打开终端（Terminal）...”，当终端打开后，在终端中按快捷键 <code>Command + V</code> 即可。如图：<br/>
+<img src="media/15490730271859/15490736283456.jpg" alt=""/><br/>
+<img src="media/15490730271859/15490737708574.jpg" alt="" style="width:617px;"/></p>
+
+<span id="more"></span><!-- more -->
+
 <h2 id="toc_0">修改zshrc</h2>
 
 <p>Mac终端进入Root权限修改oh My zsh的.zshrc文件<br/>
@@ -35,14 +41,10 @@
 
 <h3 id="toc_2">登录root权限</h3>
 
-<blockquote>
 <ul>
-<li>输入 <code>su root</code> 切换root用户，然后输入password，刚刚键入的密码就可以了</li>
-</ul>
-</blockquote>
-
-<ul>
-<li>输入 <code>vi .zshrc</code> 即可修改配置</li>
+<li><p>输入 <code>su root</code> 切换root用户，然后输入password，刚刚键入的密码就可以了</p></li>
+<li><p>输入 <code>vi .zshrc</code> 即可修改配置</p></li>
+<li><p>输入 <code>：wq</code> 即可保存配置</p></li>
 </ul>
 
 <p>然后就可以修改oh my zsh的.zshrc配置文件了</p>

@@ -87,7 +87,13 @@ $(document).ready(function(event) {
 				<p class="meta"><time datetime="2019-02-01T20:03:47-06:00" pubdate data-updated="true">2019/2/1</time></p>
 			 </header>
 		  	<div class="entry-content">
-			  	<h2 id="toc_0">修改zshrc</h2>
+			  	<p>使用方法非常简单，右键网站分类，选择 “复制发布脚本命令并打开终端（Terminal）...”，当终端打开后，在终端中按快捷键 <code>Command + V</code> 即可。如图：<br/>
+<img src="media/15490730271859/15490736283456.jpg" alt=""/><br/>
+<img src="media/15490730271859/15490737708574.jpg" alt="" style="width:617px;"/></p>
+
+<span id="more"></span><!-- more -->
+
+<h2 id="toc_0">修改zshrc</h2>
 
 <p>Mac终端进入Root权限修改oh My zsh的.zshrc文件<br/>
 设置oh my zsh的.zshrc配置文件 <code>vi ~/.zshrc</code> 保存时 老提示我没权限修改<br/>
@@ -103,14 +109,10 @@ $(document).ready(function(event) {
 
 <h3 id="toc_2">登录root权限</h3>
 
-<blockquote>
 <ul>
-<li>输入 <code>su root</code> 切换root用户，然后输入password，刚刚键入的密码就可以了</li>
-</ul>
-</blockquote>
-
-<ul>
-<li>输入 <code>vi .zshrc</code> 即可修改配置</li>
+<li><p>输入 <code>su root</code> 切换root用户，然后输入password，刚刚键入的密码就可以了</p></li>
+<li><p>输入 <code>vi .zshrc</code> 即可修改配置</p></li>
+<li><p>输入 <code>：wq</code> 即可保存配置</p></li>
 </ul>
 
 <p>然后就可以修改oh my zsh的.zshrc配置文件了</p>
