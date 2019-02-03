@@ -1,0 +1,59 @@
+2019-02-03 07:05:06: File Monitoring not available on: ftp://67.218.138.18
+2019-02-03 07:05:06: Remote File System with No monitoring, disconnect
+2019-02-03 07:05:06: On File Change Monitoring started on file:///Users/caoqian/Documents/WebSite/Category
+2019-02-03 07:05:07: -- 分析开始 On File Change First Full Analyze Upon File Monitoring Start
+2019-02-03 07:05:08: Name '网站相关 | Websites.html' in path '' contains illegal characters, using name '网站相关 _ Websites.html' instead
+2019-02-03 07:05:53: 变更：49， 冲突：0， 复制时间：0， 复制状态：159， 错误： 0, All: 7044
+2019-02-03 07:05:53: Left to Right: Copy File: 49 
+2019-02-03 07:05:53: == 同步开始由 On File Change First Full Analyze Upon File Monitoring Start
+2019-02-03 07:05:54: 创建文件夹 'ftp://67.218.138.18/media/15491201239297'
+2019-02-03 07:05:54: 创建文件夹 'ftp://67.218.138.18/media/15491517438738'
+2019-02-03 07:05:54: 创建文件夹 'ftp://67.218.138.18/media/15491652924233'
+2019-02-03 07:05:55: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15488754532796.html' -> 'ftp://67.218.138.18/15488754532796.html' (6,429)
+2019-02-03 07:05:56: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15488759245295.html' -> 'ftp://67.218.138.18/15488759245295.html' (9,702)
+2019-02-03 07:05:56: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15489006138752.html' -> 'ftp://67.218.138.18/15489006138752.html' (6,597)
+2019-02-03 07:05:57: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15489009430810.html' -> 'ftp://67.218.138.18/15489009430810.html' (7,003)
+2019-02-03 07:05:58: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15489020435104.html' -> 'ftp://67.218.138.18/15489020435104.html' (12,082)
+2019-02-03 07:05:58: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15489020627808.html' -> 'ftp://67.218.138.18/15489020627808.html' (30,343)
+2019-02-03 07:05:59: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15489020979498.html' -> 'ftp://67.218.138.18/15489020979498.html' (21,248)
+2019-02-03 07:06:00: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15489027394672.html' -> 'ftp://67.218.138.18/15489027394672.html' (10,322)
+2019-02-03 07:06:00: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15489085035149.html' -> 'ftp://67.218.138.18/15489085035149.html' (12,805)
+2019-02-03 07:06:01: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15489461191227.html' -> 'ftp://67.218.138.18/15489461191227.html' (6,938)
+2019-02-03 07:06:02: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15489464034509.html' -> 'ftp://67.218.138.18/15489464034509.html' (6,934)
+2019-02-03 07:06:02: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15489651912346.html' -> 'ftp://67.218.138.18/15489651912346.html' (10,882)
+2019-02-03 07:06:03: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15490386721045.html' -> 'ftp://67.218.138.18/15490386721045.html' (8,689)
+2019-02-03 07:06:04: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15490730271859.html' -> 'ftp://67.218.138.18/15490730271859.html' (9,279)
+2019-02-03 07:06:04: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/15491199202017.html' -> 'ftp://67.218.138.18/15491199202017.html' (7,587)
+2019-02-03 07:06:05: 新建复制 '/Users/caoqian/Documents/WebSite/Category/15491201239297.html' -> 'ftp://67.218.138.18/15491201239297.html' (6,835)
+2019-02-03 07:06:05: 新建复制 '/Users/caoqian/Documents/WebSite/Category/15491517438738.html' -> 'ftp://67.218.138.18/15491517438738.html' (8,197)
+2019-02-03 07:06:06: 新建复制 '/Users/caoqian/Documents/WebSite/Category/15491631190028.html' -> 'ftp://67.218.138.18/15491631190028.html' (7,566)
+2019-02-03 07:06:07: 新建复制 '/Users/caoqian/Documents/WebSite/Category/15491641978010.html' -> 'ftp://67.218.138.18/15491641978010.html' (22,746)
+2019-02-03 07:06:08: 新建复制 '/Users/caoqian/Documents/WebSite/Category/15491652924233.html' -> 'ftp://67.218.138.18/15491652924233.html' (11,943)
+2019-02-03 07:06:08: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/all.html' -> 'ftp://67.218.138.18/all.html' (9,144)
+2019-02-03 07:06:09: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/all_1.html' -> 'ftp://67.218.138.18/all_1.html' (9,654)
+2019-02-03 07:06:10: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/all_2.html' -> 'ftp://67.218.138.18/all_2.html' (8,873)
+2019-02-03 07:06:10: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/all_3.html' -> 'ftp://67.218.138.18/all_3.html' (9,516)
+2019-02-03 07:06:11: 新建复制 '/Users/caoqian/Documents/WebSite/Category/all_4.html' -> 'ftp://67.218.138.18/all_4.html' (6,570)
+2019-02-03 07:06:12: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/archives.html' -> 'ftp://67.218.138.18/archives.html' (15,183)
+2019-02-03 07:06:12: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/atom.xml' -> 'ftp://67.218.138.18/atom.xml' (101,751)
+2019-02-03 07:06:13: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/Basic_Photography.html' -> 'ftp://67.218.138.18/Basic_Photography.html' (8,776)
+2019-02-03 07:06:14: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/chenxianziti.html' -> 'ftp://67.218.138.18/chenxianziti.html' (7,123)
+2019-02-03 07:06:15: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/Design.html' -> 'ftp://67.218.138.18/Design.html' (5,834)
+2019-02-03 07:06:15: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/Ebooks.html' -> 'ftp://67.218.138.18/Ebooks.html' (7,425)
+2019-02-03 07:06:16: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/feixugouxiezuo.html' -> 'ftp://67.218.138.18/feixugouxiezuo.html' (8,662)
+2019-02-03 07:06:17: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/index.html' -> 'ftp://67.218.138.18/index.html' (9,144)
+2019-02-03 07:06:18: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/links.html' -> 'ftp://67.218.138.18/links.html' (3,776)
+2019-02-03 07:06:18: 新建复制 '/Users/caoqian/Documents/WebSite/Category/media/15491201239297/15491201320308.jpg' -> 'ftp://67.218.138.18/media/15491201239297/15491201320308.jpg' (74,889)
+2019-02-03 07:06:19: 新建复制 '/Users/caoqian/Documents/WebSite/Category/media/15491517438738/15491517741799.jpg' -> 'ftp://67.218.138.18/media/15491517438738/15491517741799.jpg' (108,196)
+2019-02-03 07:06:20: 新建复制 '/Users/caoqian/Documents/WebSite/Category/media/15491652924233/15491653091081.png' -> 'ftp://67.218.138.18/media/15491652924233/15491653091081.png' (86,965)
+2019-02-03 07:06:20: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/PowerPoint.html' -> 'ftp://67.218.138.18/PowerPoint.html' (5,982)
+2019-02-03 07:06:21: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/Resources.html' -> 'ftp://67.218.138.18/Resources.html' (9,385)
+2019-02-03 07:06:22: 新建复制 '/Users/caoqian/Documents/WebSite/Category/Resources_1.html' -> 'ftp://67.218.138.18/Resources_1.html' (5,729)
+2019-02-03 07:06:22: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/sitemap.xml' -> 'ftp://67.218.138.18/sitemap.xml' (3,911)
+2019-02-03 07:06:23: 新建复制 '/Users/caoqian/Documents/WebSite/Category/Story.html' -> 'ftp://67.218.138.18/Story.html' (6,222)
+2019-02-03 07:06:24: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/thoughts.html' -> 'ftp://67.218.138.18/thoughts.html' (9,339)
+2019-02-03 07:06:24: 新建复制 '/Users/caoqian/Documents/WebSite/Category/thoughts_1.html' -> 'ftp://67.218.138.18/thoughts_1.html' (6,555)
+2019-02-03 07:06:25: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/Writing.html' -> 'ftp://67.218.138.18/Writing.html' (8,153)
+2019-02-03 07:06:25: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/网站相关 | Websites.html' -> 'ftp://67.218.138.18/网站相关 _ Websites.html' (6,903)
+2019-02-03 07:06:27: == 同步完成. 历时: 00:00:34, 速度: 105.4 KB/s, 完成: 208, 错误: 0
+2019-02-03 07:06:27: 
