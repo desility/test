@@ -4,7 +4,7 @@
   <title><![CDATA[羊村科技]]></title>
   <link href="https://desility.github.io/yangcun/atom.xml" rel="self"/>
   <link href="https://desility.github.io/yangcun/"/>
-  <updated>2019-02-03T08:02:53-06:00</updated>
+  <updated>2019-02-03T09:30:57-06:00</updated>
   <id>https://desility.github.io/yangcun/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,49 +12,6 @@
   </author>
   <generator uri="http://www.coderforart.com/">CoderForArt</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Remove bg]]></title>
-    <link href="https://desility.github.io/yangcun/15492077339860.html"/>
-    <updated>2019-02-03T09:28:53-06:00</updated>
-    <id>https://desility.github.io/yangcun/15492077339860.html</id>
-    <content type="html"><![CDATA[
-<p><a href="https://www.remove.bg/">Remove bg</a> <br/>
-<a href="https://www.remove.bg/">https://www.remove.bg/</a><br/>
-使用 PPT 删除背景抠图，效果不好，而使用 Ps 抠图，操作又太过复杂。该怎么办呢？推荐去你试一试这款免费线上的抠图神器，只要五秒钟，完美去除背景。<br/>
-<img src="media/15492077339860/15492078521097.jpg" alt="" style="width:690px;"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[学习强国]]></title>
-    <link href="https://desility.github.io/yangcun/15491994910577.html"/>
-    <updated>2019-02-03T07:11:31-06:00</updated>
-    <id>https://desility.github.io/yangcun/15491994910577.html</id>
-    <content type="html"><![CDATA[
-<p><img src="media/15491994910577/15491996402236.jpg" alt=""/><br/>
-<span id="more"></span><!-- more --><br/>
-每日积40分耗时最短的方案，或许对各位友邻也有用。</p>
-
-<p>第零步，登录。</p>
-
-<p>每日首次登录，积1分。</p>
-
-<p>第一步，图文。在活跃时段打开一篇“图文”，并在正文页停留五到六分钟，重复四次，积14分。停留过程中复制文中一段文字，粘贴进评论区，重复五次，积5分。</p>
-
-<p>第二步，视频。在活跃时段打开一个时长为八到九分钟的“视频”并播放完，重复三次，积16分。</p>
-
-<p>第三步，收藏、分享。在进行第一步、第二步的同时，将其中两篇“图文”进行“收藏”，将四篇“图文”和两个“视频”进行“分享”，积4分。</p>
-
-<p>第四步，智能答题。 点击“智能答题”，做对相应题目，重复三次，积6分。</p>
-
-<p>总而言之，可概括为：</p>
-
-<p>四个四分钟阅读，三个九分钟视频，五个评论，六个分享，两个收藏，三个答题。</p>
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[如何突破自己的阶层，打破阶级固化？]]></title>
@@ -67,6 +24,8 @@
 <p>早在1895年，意大利经济学家维尔弗雷多·帕累托（Vilfredo Pareto）在研究国家的财富分布时，发现了一个很有趣的现象——每个国家的财富都呈现出一种分布方式，少部分人占据大部分财富，而大部分人拥有少量财富。</p>
 
 <p><img src="media/15491676278231/15491676731737.jpg" alt=""/></p>
+
+<span id="more"></span><!-- more -->
 
 <p>幂律分布（长尾分布</p>
 
@@ -178,6 +137,49 @@
 <p>面对命运的不公平，我们能够靠自己做出一些努力，用更好的方法，持续放大自我效能，努力的改变由量变而达到质变。</p>
 
 <p>不久的将来，我们也能成就一番事业，改写命运。</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Remove bg]]></title>
+    <link href="https://desility.github.io/yangcun/15492077339860.html"/>
+    <updated>2019-02-03T09:28:53-06:00</updated>
+    <id>https://desility.github.io/yangcun/15492077339860.html</id>
+    <content type="html"><![CDATA[
+<p><a href="https://www.remove.bg/">Remove bg</a> <br/>
+<a href="https://www.remove.bg/">https://www.remove.bg/</a><br/>
+使用 PPT 删除背景抠图，效果不好，而使用 Ps 抠图，操作又太过复杂。该怎么办呢？推荐去你试一试这款免费线上的抠图神器，只要五秒钟，完美去除背景。<br/>
+<img src="media/15492077339860/15492078521097.jpg" alt="" style="width:690px;"/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[学习强国]]></title>
+    <link href="https://desility.github.io/yangcun/15491994910577.html"/>
+    <updated>2019-02-03T07:11:31-06:00</updated>
+    <id>https://desility.github.io/yangcun/15491994910577.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/15491994910577/15491996402236.jpg" alt=""/><br/>
+<span id="more"></span><!-- more --><br/>
+每日积40分耗时最短的方案，或许对各位友邻也有用。</p>
+
+<p>第零步，登录。</p>
+
+<p>每日首次登录，积1分。</p>
+
+<p>第一步，图文。在活跃时段打开一篇“图文”，并在正文页停留五到六分钟，重复四次，积14分。停留过程中复制文中一段文字，粘贴进评论区，重复五次，积5分。</p>
+
+<p>第二步，视频。在活跃时段打开一个时长为八到九分钟的“视频”并播放完，重复三次，积16分。</p>
+
+<p>第三步，收藏、分享。在进行第一步、第二步的同时，将其中两篇“图文”进行“收藏”，将四篇“图文”和两个“视频”进行“分享”，积4分。</p>
+
+<p>第四步，智能答题。 点击“智能答题”，做对相应题目，重复三次，积6分。</p>
+
+<p>总而言之，可概括为：</p>
+
+<p>四个四分钟阅读，三个九分钟视频，五个评论，六个分享，两个收藏，三个答题。</p>
 
 ]]></content>
   </entry>
