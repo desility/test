@@ -4,7 +4,7 @@
   <title><![CDATA[羊村科技]]></title>
   <link href="https://desility.github.io/yangcun/atom.xml" rel="self"/>
   <link href="https://desility.github.io/yangcun/"/>
-  <updated>2019-02-03T09:32:41-06:00</updated>
+  <updated>2019-02-03T23:25:34-06:00</updated>
   <id>https://desility.github.io/yangcun/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,109 @@
   </author>
   <generator uri="http://www.coderforart.com/">CoderForArt</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cydia 源]]></title>
+    <link href="https://desility.github.io/yangcun/15493202049462.html"/>
+    <updated>2019-02-04T16:43:24-06:00</updated>
+    <id>https://desility.github.io/yangcun/15493202049462.html</id>
+    <content type="html"><![CDATA[
+<h1 id="toc_0">越狱源</h1>
+
+<p>1、Cydia官方源：apt.cydiaba.cn（推荐） <br/>
+2、pp助手源：apt.25pp.com（越狱后必装） <br/>
+3、破解软件源：repo.hackyouriphone.org（推荐） <br/>
+4、JK中文源：apt.5dpj.com（推荐） <br/>
+5、威锋源：apt.weiphone.com6（推荐）<br/><br/>
+6、卡贴补丁源：cydia.china3gpp.com<br/><br/>
+7、字体源：cydia.hdlulu.com <br/>
+8、3K助手：apt.3kzhushou.com <br/>
+9、叉叉助手源：apt.xxzhushou.cn <br/>
+10、雷锋源：apt.abcydia.com<br/><br/>
+11、八木源：aptso.cn <br/>
+12、i.danstaface.net/deb 动态桌面 <br/>
+13、elijahandandrew.com/repo/ 主题插件<br/><br/>
+14、Xarold源:repo.xarold.com/(各种盗版插件) <br/>
+15、HackYouriPhone源:repo.hackyouriphone.org/(各种盗版插件) <br/>
+16、bd452 Beta Repo源:repo.bd452.com/(Upscale修改屏幕缩放；与LittleBrother功能一样) <br/>
+17、Clezz源:apt.clezz.com/(微信、QQ快捷回复*测试源) <br/>
+18、CP Digital Darkroom源:repo.cpdigitaldarkroom.com/(各种美化插件 <br/>
+19、julioverne源:julio.xarold.com/(CyDown收费插件免费下；MD5值不匹配除外) <br/>
+20、KS Cydia源:apt.ksccc.cc/(锋友) <br/>
+21、ModMyi源:apt.modmyi.com/(好像自带的) <br/>
+22、repo.so源:repo.so/(原创精品汉化) <br/>
+23、HackCH源:crak.cn/repo/(说是Hack中文源，我不相信；此源很多收费插件) <br/>
+24tutuapp源:apt.tutuapp.com/(威锋兔兔助手；别的助手不可靠) <br/>
+25、xxzhushou源:apt.xxzhushou.com/(MineCraft PE 辅助很好；其他不做评论) <br/>
+26、威锋源apt.feng.com/（全球唯一中文私有源，各种盗版；哈哈） <br/>
+27、apt.so/fjy600 最新加入BioLockdown破解版插件 <br/>
+28、julio.xarold.com 手势插件 <br/>
+29、apt.sbwml.cn/ 免流 <br/>
+30、cydia里搜Fun-multiplier For WeChat 就行了 <br/>
+31、微信提示音更换 CustomNotificationSound <br/>
+32、dock透明 TransparenrDock <br/>
+33、变声器WechatPlugin <br/>
+34、HackCn源 crak.cn/repo/ <br/>
+35、j c t 越狱猫 apt.yymao.net/ <br/>
+36、S 中文源 apt.Sunbelife.com/ <br/>
+37、威锋技术组精品源 repo.weiphone.com/ <br/>
+38、老马手势源 cydia.clezz.com/ <br/>
+39、拒绝收费6K2.0地址<a href="http://114nk.cn/666k/">http://114nk.cn/666k/</a> <br/>
+40、防测抢红包Fun-multiplier For WeChat <br/>
+威锋源：<a href="http://apt.so/">http://apt.so/</a> <br/>
+威锋技术组精品源：<a href="http://repo.feng.com/">http://repo.feng.com/</a> <br/>
+原创精品源：<a href="http://repo.so/">http://repo.so/</a> Karen&#39;s Pineapple <br/>
+Repo：<a href="http://cydia.angelxwind.net/">http://cydia.angelxwind.net/</a> <br/>
+PP助手源：<a href="http://apt.25pp.com/">http://apt.25pp.com/</a> S <br/>
+中文源：<a href="http://apt.sunbelife.com/">http://apt.sunbelife.com/</a> <br/>
+威锋源：apt.weiPhone.com <br/>
+威锋精品源：repo.weiphone.com <br/>
+178源：apt.178.com <br/>
+BigBoss源 ：apt.thebigboss.org/repofiles/cydia（老板源 Cydia内置） <br/>
+xSellize源：cydia.xsellize.com <br/>
+HYI源：repo.hackyouriphone.org（国外知名破解软件源、Appsync官方源） <br/>
+多玩源：yuan.duowan.com <br/>
+电吧源：iphone.tg`bus.com/cydia <br/>
+PP助手官方源：apt.25pp.com <br/>
+八门神器官方源：apt.zntx.cc（游戏修改神器） <br/>
+烧饼源：apt.sbtools.me（烧饼修改器、加速器、内购破解）<br/>
+ UU助手官方源：apt.uuhelper.com（游戏辅助） <br/>
+XX助手官方源：apt.xxzhushou.com（游戏辅助） 手游大力玩官方源：cydia.myrepospace.com/powerwin（软件加速器） <br/>
+IAPFree官方源：repo.iapfree.org（内购破解） <br/>
+百度输入法官方源：mi.baidu.com <br/>
+搜狗输入法官方源：cydia.sogou.com <br/>
+讯飞输入法官方源：cydia.voicecloud.cn <br/>
+LocalIAPstore官方源：system.in-appstore.com/repo（内购破解） <br/>
+Activator官方源：rpetri.ch/repo（手势神器） <br/>
+Quickdo官方源：cydia.clezz.com（手势神器） <br/>
+Bitesms官方源：cydia.bitesms.com（信息功能增强）<br/>
+Bitesms测试源：test-cydia.bitesms.com（信息功能增强） <br/>
+Flex官方源：getdelta.co App（修改神器） <br/>
+82Flex源：apt.82flex.com Flex（中文云端、App修改神器） <br/>
+Plipala(熊猫源)：cydia.myrepospace.com/plipala（归属地Phonelocationlite、CCSetting） <br/>
+NCSettings官方源：cydia.myrepospace.com/jamied360（通知中心开关） <br/>
+Kuaidial官方源：kuaidial.googlecode.com/svn/deb（来电归属地、快捷拨号） iCleaner Pro官方源：exile90software.com/cydia（垃圾清理） <br/>
+Datastatusbar官方源：oyoung.myrepospace.com（状态栏网速计） <br/>
+Auxo官方源 ：repo.a3tweaks.com（多任务后台修改） Zeppelin官方源：repo.alexzielenski.com（运营商图标修改） <br/>
+vWallpaper官方源：i.danstaface.net/deb（来电视频） <br/>
+iPhonedelivery官方源：iphonedelivery.advinux.fr/cydia（短信回执） <br/>
+Notified  Pro官方源：beta.notifiedapp.com（修改增强通知系统） <br/>
+Wallproxy官方源：cydia.myrepospace.com/iwyg（翻墙） <br/>
+StatusbarFix官方源：cydia.myrepospace.com/tushaoye（修复状态栏、Bigboss也有） <br/>
+LessAD官方源：apt.ixhan.com（去广告） <br/>
+太极源：bbdown.iphonespirit.com/apt <br/>
+360官方源：m.360.cn/cydia <br/>
+金山电池医生官方源：apt.ios.ijinshan.com（Bigboss也有） <br/>
+腾讯源：www.qcydia.com（腾讯手机管家Pro） <br/>
+91源：apt.91.com <br/>
+51ipa补丁源：cydia.51ipa.com <br/>
+天天动听官方源：apt.ttpod.com <br/>
+Wifi万能钥匙官方源：wifi.sdo.com/release/iphone</p>
+
+<p>*需要的自己找找吧</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[知识]]></title>
@@ -1156,282 +1259,6 @@ We can crop a section out of the image, but we would have to accept a smaller im
 <p>Camera pixel sensors come in an x-y grid that record the amount and color of the light in a scene. We can count the number of pixels horizontally and vertically on that grid and come up with the total number of pixels a camera has by multiplying one number by the other. So, a camera that has 3072 pixels by 2304 pixels would have 7,077,888 total pixels, or, rounding up, 7.1 <strong>megapixels</strong>. Mega means &quot;million&quot; and the term megapixel has become the standard that is used to measure the relative resolution of cameras. The greater the number of pixels a camera has the more its images can be enlarged before pixels can be seen.</p>
 
 <p>One thing to keep in mind when thinking about pixel count is the concept of &quot;<strong>cropping</strong>&quot; a photograph. When a photograph is cropped to improve its composition or to zero in on the image information that&#39;s most important to the viewer, parts of the image are removed. When you crop your digital photographs, you are removing pixels, so the total pixel count of your image goes down, reducing its resolution and therefore the size to which it can be enlarged.</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Chapter 3 Photographic Exposure]]></title>
-    <link href="https://desility.github.io/yangcun/15489020627808.html"/>
-    <updated>2019-01-30T20:34:22-06:00</updated>
-    <id>https://desility.github.io/yangcun/15489020627808.html</id>
-    <content type="html"><![CDATA[
-<p>Photography is all about light.</p>
-
-<p>Controlling how much light gets into the camera and how it gets there is one of the most important parts of learning photography.</p>
-
-<p>Getting the correct exposure for a given scene is important for the highest quality photographs, but that’s only part of the story, as exposure is also a creative tool, allowing you to make your pictures look the way you want them to.<br/>
-<img src="media/15125658799576/15126530836735.jpg" alt=""/><br/>
-<span id="more"></span><!-- more --></p>
-
-<h2 id="toc_0">3.1   Aperture</h2>
-
-<p>**THE BASICS **</p>
-
-<hr/>
-
-<ol>
-<li>The aperture controls the volume of light that enters the camera by adjusting the<br/>
-size of a hole in the camera’s lens</li>
-<li>A large hole lets in lots of light and is defined by a small number (ex: ƒ/4)</li>
-<li>A small hole lets in a small amount of light and is defined by a large number (ex: ƒ/16)</li>
-<li>The smaller the aperture’s hole, the more things are in focus near-to-far in a scene; when the aperture hole is large, fewer things are in focus near-to-far</li>
-<li>The aperture value is either set by the camera in one of the automatic shooting modes, or set by the photographer in manual mode</li>
-</ol>
-
-<p>Like the iris in your eye, your camera’s aperture is a hole in the lens that changes size, regulating the volume of light that enters the camera. As the aperture opens to a larger hole, it lets more light into the camera. Conversely, a smaller hole  will let less light into the camera. Though the term aperture is most often used, you will sometimes see apertures referred to as f-stops, often with an italicized “ƒ” and a slash, as in ƒ/8. The terms aperture and ƒ-stop are interchangeable.</p>
-
-<p>In addition to its function of controlling the volume of light that enters the camera, the aperture can also alter the amount of things that are in focus in your photographs. A smaller aperture hole will have more things in focus near-to-far in a scene, while a larger aperture hole will allow you to focus on one spot in your scene and blur things that are closer to or farther from the camera. This is called <strong>depth of field</strong> or sometimes depth of focus. So, the aperture is both a technical and a creative control.</p>
-
-<p>In order to predict and repeat a certain volume of light entering the camera, a particular aperture’s “hole size” is expressed by a number. So, a very small aperture hole is ƒ/22, a large hole is ƒ/4. These numbers can be a bit confusing at first because they seem contrary. If you can just remember that a small aperture hole is expressed by a big number and a large aperture hole is expressed by a small number, you’ll be fine.</p>
-
-<p>The largest aperture (remember, smaller number) available on a lens varies depending on the type of lens, the lens design and the cost of the lens, but most lenses start with aperture numbers around ƒ/2.8, ƒ/3.5 or ƒ/4. The bigger the maximum aperture on a lens, the “faster” that lens is said to be, as it lets more light into the camera. The smallest aperture (remember, bigger number) on a given lens also varies, but most lenses have ƒ/16 or ƒ/22 as their smallest aperture.</p>
-
-<p>Apertures have a standard set of numbers that are “whole” apertures or “whole stops.” Moving from one aperture setting to the next whole aperture setting either doubles the exposure by letting twice as much light into the camera or cuts the exposure in half by letting in half as much light in. Photographers refer to this as changing the exposure by a “<strong>stop</strong>.” The traditional sequence of aperture settings starts at the largest aperture available and progresses like this:</p>
-
-<table>
-<thead>
-<tr>
-<th>ƒ/4</th>
-<th>ƒ/5.6</th>
-<th>ƒ/8</th>
-<th>ƒ/11</th>
-<th>ƒ/16</th>
-<th>ƒ/22</th>
-</tr>
-</thead>
-
-<tbody>
-</tbody>
-</table>
-
-<p>So, going from ƒ/4 to ƒ/5.6 is thought of as “one stop less” exposure (because the volume of light gets cut in half). Going from ƒ/16 to ƒ/8 is “two stops more” exposure (because the volume of light has been doubled by two whole apertures.</p>
-
-<p>With the digital controls on modern cameras, you have the ability to change by smaller increments of volume, cutting those “twice” and “half” pieces into “one-third less” and “one-third more.” This is great, because it gives you finer control over the volume of light that is let into your camera. So, your camera can set aperture settings in a 1/3-stop sequence like:</p>
-
-<table>
-<thead>
-<tr>
-<th>ƒ/5.6</th>
-<th>ƒ/6.3</th>
-<th>ƒ/7.1</th>
-<th>ƒ/8</th>
-<th>ƒ/9</th>
-<th>ƒ/10</th>
-<th>ƒ/11</th>
-</tr>
-</thead>
-
-<tbody>
-</tbody>
-</table>
-
-<p>Aside from its function of letting a prescribed volume of light into the camera, aperture can also dramatically alter the way focus occurs in images. The smaller the aperture (like ƒ16 or ƒ/22), the more things are in focus near-to-far in your photographs. The larger the aperture, (like ƒ/2.8 or ƒ/4) the fewer things are in focus near-to-far in your photographs.</p>
-
-<p><strong>Apertures</strong><br/>
-<img src="media/15125658799576/15125667041456.jpg" alt=""/></p>
-
-<p>Standard Whole Apertures</p>
-
-<p><strong>Setting The Aperture</strong></p>
-
-<p>Setting the aperture on your camera is accomplished diﬀerently, depending on what exposure mode you have set on your camera:</p>
-
-<ul>
-<li><strong>Aperture Priority Mode</strong> allows you to set
-the aperture you want and the camera sets the shutter speed for you.</li>
-<li><strong>Manual Mode</strong> will allow you to set the
-aperture you want and then you will have to manually set the correct shutter speed for that lighting condition.</li>
-</ul>
-
-<p>See the <strong>Exposure Modes</strong> section  for more information.</p>
-
-<p>Here, an aperture of ƒ/16 provides lots of depth of field, so both the horizon and nearby objects are in focus.</p>
-
-<p><img src="media/15125658799576/15125668412029.jpg" alt=""/></p>
-
-<h2 id="toc_1">3.2   Shutter Speed</h2>
-
-<p><strong>THE BASICS</strong></p>
-
-<hr/>
-
-<ol>
-<li>The shutter controls the length of time that<br/>
-light has to enter the camera</li>
-<li>Shutter speeds are expressed in fractions<br/>
-of seconds (ex: 1/250 of a second, usually<br/>
-just 1/250 or even just “250”)</li>
-<li>A long shutter speed lets in lots of light and<br/>
-is defined by a large number (ex: 1/2 or 1/8)</li>
-<li>A short shutter speed lets in a small<br/>
-amount of light and is defined by a small<br/>
-number (ex: 1/500 or 1/1000)</li>
-<li>The shorter the shutter speed, the more the<br/>
-camera can stop motion in the frame; the<br/>
-longer the shutter speed, the more motion<br/>
-in the frame will be blurred</li>
-<li>The shutter speed is either set by the<br/>
-camera in one of the automatic shooting<br/>
-modes, or set by the photographer in<br/>
-manual mode</li>
-</ol>
-
-<p>Whether the goal is stopping fast action or creating a blur, the shutter is the setting that allows you to control the length of time light enters the camera. The shutter is actually one of the most creative controls that there is in photography, allowing you to express the element of time in your images. Sometimes, you’ll want to stop the action of a quickly moving subject with a fast shutter speed. Other times, you’ll want to blur the subject’s motion with a slow shutter speed.</p>
-
-<p>For most of your photographs, you will use shutter speeds that are fractions of a second, like 1/125 of a second. Because of that, shutter speed settings on the camera can be a bit confusing at first because many camera settings leave oﬀ the top part of the fraction that they are expressing, so a small number (1/250) looks like a big one (250). The key is to remember that the numbers are fractions so “500” is actually a shorter amount of time than “250”.</p>
-
-<p>Action in your scene can be stopped by using a fast shutter speed like 1/250, 1/500 or 1/1000 of a second. Conversely, if you want to blur the motion in a scene, you can use a slow shutter speed like 1/30, 1/15 or 1/8 of a second.</p>
-
-<p>Not long ago in photography, most cameras had a prescribed set of shutter speeds that were the same on nearly every camera. Moving from one shutter speed to the speed next to it on the camera either doubled the exposure or cut it in half by letting the shutter stay open for either twice as much or half as much time. The traditional sequence of shutter speeds started at 1 second, then moved to 1/2 a second, 1/4, 1/8, 1/15, 1/30, 1/60, 1/125, 1/250, 1/500 and 1/1000 of a second. Note that there are a couple of “fudge factors” where the numbers aren’t exactly half or double to make the numbers more even as the sequence progresses.</p>
-
-<p>Just like with aperture, photographers refer to changing the exposure by doubling or cutting it in half as changing the exposure by a “stop.” So, going from 1/15 of a second to 1/30 of a second is thought of as “one stop less” exposure (because the shutter speed gets cut in half). Going from 1/250 of a second to 1/60 of a second is “two stops more” exposure because the shutter has been slowed by two whole shutter speeds.</p>
-
-<p>Now, with electronic controls on our cameras, most cameras have the ability to change by smaller increments of time, cutting those “twice” and “half” pieces into “one-third less” and “one- third more.” This is great, because it gives you finer-grained control over how motion is stopped or blurred in your photographs.</p>
-
-<p><img src="media/15125658799576/15125675268067.jpg" alt=""/></p>
-
-<p>When using slower shutter speeds, you may need to have the camera on a tripod or some other steady support so the camera is stationary and the subject’s movement can be recorded. A rule of thumb is that most people can hand-hold a camera without a tripod and without creating camera shake at shutter speeds that are 1/60 of a second and shorter. This changes as you change the focal length on your camera’s lens as <strong>telephoto</strong> or “long” lenses will tend to magnify camera shake and <strong>wide-angle</strong> or “short” lenses will tend to minimize it.</p>
-
-<p>To minimize camera shake, practice maintaining a steady stance while making photographs and using a gentle squeeze on the shutter release button rather than stabbing it. As you’re photographing, you may also want to look around you for places that you can lean against, sit on or prop your camera on to help keep you and your camera steady.</p>
-
-<p><img src="media/15125658799576/15125674863224.jpg" alt=""/></p>
-
-<p><strong>Setting The Shutter Speed</strong></p>
-
-<p>Setting the shutter’s speed is accomplished diﬀerently, depending on what exposure mode you have set on your camera:<br/>
-•<strong>Shutter Priority Mode</strong> allows you to set<br/>
-the shutter speed you want and the camera sets the aperture for you.<br/>
-•<strong>Manual Mode</strong> will allow you to set the<br/>
-shutter speed you want and then you will have to manually set the correct aperture for that lighting condition.</p>
-
-<p>See the <strong>Exposure Modes</strong> section for more information.<br/>
-<img src="media/15125658799576/15125676193300.jpg" alt=""/></p>
-
-<p><em>Here, a shutter speed of 1/1000 of a second froze the motion of the water</em></p>
-
-<p><strong>Panning</strong><br/>
-**Panning **is a technique that can be used when photographing fast- moving objects.</p>
-
-<p>A slow shutter speed is used and the camera is moved in the direction of the subject’s movement, keeping the subject in roughly the same position in the frame. This keeps the subject somewhat stationary and gives a motion blur to the background.<br/>
-<img src="media/15125658799576/15125676837596.jpg" alt=""/></p>
-
-<p>Here, the exposure was ƒ/22 at 1/8 of a second.</p>
-
-<h2 id="toc_2">3.3   ISO:   Sensitivity to  Light</h2>
-
-<p>** THE BASICS**</p>
-
-<hr/>
-
-<ol>
-<li> Film cameras can only change ISO values by changing the film in the camera; digital cameras can change the ISO at any time with a camera setting</li>
-<li> A digital camera’s ISO changes via electronics; an amplifier turns up the “volume” of light sensitivity for high ISO and turns it down for low ISO</li>
-<li> The higher the ISO number, the more sensitive to light the camera will be; the lower the ISO number, the lower the camera’s light sensitivity will be</li>
-<li> Lower ISO numbers generally will result in sharper, better-quality photographs; higher ISO numbers generally result in photographs that have increased grain or noise</li>
-<li> As ISO values change, they change by whole or third “stops”</li>
-</ol>
-
-<p>The aperture and shutter speed of your camera control the amount of light that enters the camera, but there is another control that is equally important and that’s the sensitivity of the camera’s digital sensor to the light that falls on it. Like the numbers that are used to describe aperture and shutter speed, camera sensitivity settings are standardized internationally by the International Standards Organization (ISO). So, photographers refer to a camera’s sensitivity to light by talking about its ISO setting.</p>
-
-<p>High ISO numbers (like 3200, 6400, etc) mean that the camera can make photographs in very low light levels because the sensor’s amplifier is turned up high, making it very sensitive to light. Lower ISO numbers (like 200, 400 or even 800) are better choices for making photographs in normal lighting levels.</p>
-
-<p>Film cameras are limited with regard to ISO settings. That’s because the only way a film camera can change its ISO setting is to change the film that’s in the camera. Digital cameras, on the other hand can change their ISO setting by the press of a button. In fact, digital cameras are able to have very high ISO settings; far beyond the capabilities of film, allowing photography in very low light levels.</p>
-
-<p>There is a tradeoff, however. The higher the ISO setting, the more likely the camera’s sensor will generate <strong>digital noise</strong> during the exposure. This is because setting a higher ISO setting on a digital camera simply turns up an amplifier for the light signal. The more the amplification, the more noise is generated. Noise usually shows up in the darker areas of a photograph more than it does in the lighter areas, but with high-ISO images, the grainy look of noise is everywhere.</p>
-
-<p>Most digital cameras have an option for using automatic ISO. This sets the ISO sensitivity for you, depending on the amount of light in the scene. While this can be useful for shooting on the fly when lighting conditions are changing dramatically, it’s probably not the best choice for the highest quality photography. Making sure you know what ISO your camera has set is your best bet for having the best, most noise-free images.</p>
-
-<p>Just like aperture and shutter speed numbers that have a 1:2 relationship (twice as much light, half as much light), ISO settings also represent one-half or two-times the amount of sensitivity. So, 400 ISO is exactly one “stop” more sensitive to light than is ISO 200.    Also just like aperture and shutter speeds, you may see ISO numbers that aren’t “half” and “twice” on your camera. Depending on how you have your camera’s menu system set, you may find that your ISO numbers appear in one-third-stop increments. For practical purposes, a whole-stop (twice as much, half as much) setting is adequate and you should be able to change your camera to whole-stop ISO jumps. Look at this set of images below to see the eﬀects of ISO settings.</p>
-
-<p><img src="media/15125658799576/15125679682934.jpg" alt=""/><br/>
-This photograph was made in fairly low light levels with the camera on a tripod</p>
-
-<h2 id="toc_3">3.4   Exposure:  How Much    Light?</h2>
-
-<p><strong>THE BASICS</strong></p>
-
-<hr/>
-
-<ol>
-<li> Exposure is controlled by Aperture, Shutter Speed and ISO setting</li>
-<li> Each exposure control has a relationship of 1:2 or one “stop” of diﬀerence</li>
-<li> An in-camera light meter reads light in scene and helps set the aperture, shutter speed and (sometimes) the ISO</li>
-<li> The meter bases its exposure suggestions on an “average” amount of light reflecting from objects in the scene</li>
-<li> This “average” light is based on a middle gray reflectance</li>
-<li> There is a “correct” exposure (total amount of light) for every scene, but the combination of aperture, shutter and ISO can be different</li>
-</ol>
-
-<p>Have you ever noticed that when you leave a movie theater and go out into the bright daylight that after the initial shock of the change in illumination, you get used to the tremendous difference in the amount of light? This is because the human eye and brain have a great exposure mechanism built in and most people can see well in both low light levels and on the brightest of days.</p>
-
-<p>The camera, though, isn’t as instantly flexible as our eyes and brain are and photographers need to control the amount of light that enters the camera in order to get a correct rendition of the scene. Now that you have an understanding of the three basic controls for photographic exposure of aperture, shutter speed and ISO, let’s put them together and see how they interact in what we can refer to as the <strong>Exposure Triangle.</strong></p>
-
-<p>For any given scene, there is an ideal exposure; an ideal for the total amount of light entering the camera. But, since you know that exposure is controlled by several variables, there can be a number of diﬀerent combinations of aperture, shutter speed and ISO to create that given amount of light that should enter the camera.</p>
-
-<p>One of the keys to that interaction is that relationship of 1:2 or “twice as much, half as much” that governs each of these controls. Remembering that moving one whole shutter speed, one whole aperture or one whole ISO number either doubles the amount of light or cuts it in half is an important part of understanding total camera exposure.</p>
-
-<p>The exposure for a given scene is calculated by a <strong>light meter</strong>. Nearly every camera that’s made has an light meter, which is designed to measure the amount of light reflecting oﬀ of the objects in the scene. Once it reads the amount of reflected light, it works with the camera’s settings – and often your input – to determine the correct aperture, shutter speed and ISO combination for a correct exposure.</p>
-
-<p>The light meter is designed to look at the elements of the scene and average the reflectance of everything in the frame, with the idea that most scenes have some very bright things, some very dark things and many things that are of “middle” reflectance. In fact, the light meter makes an assumption that whatever it sees should average out to a middle gray value. In technical photographic terms, this is 18% gray. In most instances, this averaging works quite well, as the majority of scenes in the world have mostly middle reflectance, so the light meter gives an accurate suggestion of a combination of aperture, shutter speed and ISO.</p>
-
-<p>Once you have the meter’s reading of the scene’s reflected light, you can choose the shutter speed, the aperture and the ISO. In practical terms, you are likely to set an ISO first, because you want to control the amount of noise in your images. If you are in normal bright lighting conditions, you will likely choose an ISO of 200, 400 or 800. Then, you can choose the aperture that will give you the depth of field that you want and the shutter speed that stops or blurs motion the way you want.</p>
-
-<p>Remember, though, that since aperture and shutter speeds are interdependent, you may not be able to choose both a small aperture and a fast shutter speed, as this may not produce the required total volume of light entering the camera.  So, how do you know which combination of aperture and shutter speed? This is where the creative elements of photography start to come into play, giving you control over the final result of your photographs.</p>
-
-<p><img src="media/15125658799576/15125682666569.jpg" alt=""/></p>
-
-<h2 id="toc_4">3.5  Camera  Exposure    Modes</h2>
-
-<p><strong>THE BASICS</strong></p>
-
-<hr/>
-
-<ol>
-<li>Exposure modes control how the light<br/>
-meter’s readings are interpreted by the<br/>
-camera</li>
-<li>Different modes prioritize different parts of<br/>
-the Exposure Triangle</li>
-<li>Some exposure modes automate the<br/>
-camera’s settings</li>
-<li>Other exposure modes give the<br/>
-photographer control over the camera’s<br/>
-settings</li>
-</ol>
-
-<p>In most cameras, determining and setting the correct exposure depends on the exposure mode that you have set on the camera. Nearly all cameras can be controlled by diﬀerent exposure modes, or ways of letting you control the camera’s settings. These modes primarily diﬀer in the way they prioritize the three elements of the exposure triangle.</p>
-
-<p>Most cameras have several exposure modes. <strong>Automatic mode</strong> and <strong>Program mode</strong> apply large amounts of automation to the exposure for your photograph, giving you limited or no control over what settings the camera uses. <strong>Aperture Priority</strong> and <strong>Shutter Priority</strong> modes allow for partially automatic control over the camera’s settings; you set one part of the exposure triangle and the camera sets the other. Manual mode gives you complete manual control over your<br/>
-exposure; you set everything on the camera.</p>
-
-<p>Which mode you select depends on what you’re most interested in capturing in your photograph. Your camera’s manual can help you learn which modes you have and how they can be set on your camera.</p>
-
-<p><img src="media/15125658799576/15125684828461.jpg" alt=""/><br/>
-<em>Aperture Priority was selected for this image so that ƒ/22 could be set to allow for maximum depth of field. The camera chose the shutter speed.</em></p>
-
-<p>Use this interactive graphic to explore the exposure modes common to most cameras. The generic graphic you see here will likely diﬀer from what you find on your camera, but your camera will be similar. Every mode has its purpose and no one mode is “better” or “worse” than any other.</p>
-
-<p><img src="media/15125658799576/15125685597034.jpg" alt=""/><br/>
-Camera Exposure Modes</p>
-
-<p>As long as the reflectance of subjects in the scene is average all of the exposure modes work very well to deliver accurate exposure for your photographs. But what happens when there is something in the scene that is much brighter or much darker than the rest of the objects in the frame? The exposure system can get confused because it doesn’t know that the bright thing is anything other than very light and it will create an exposure that is too dark for what you envision. You need to adjust the exposure so that the photograph you make isn’t too light or too dark.</p>
-
-<p>This is where <strong>Exposure Compensation</strong> comes in. Exposure compensation is a tool found on all contemporary cameras and it allows you to override the settings that any of the program modes set. Most cameras have a dial or a set of buttons that allow you to adjust your exposure up to 2 stops (sometimes more) in 1/3-stop increments up or down the exposure scale to give you the exposure you want. In most cameras, you can see the exposure compensation setting in the camera’s viewfinder.</p>
-
-<p><img src="media/15125658799576/15125686258996.jpg" alt=""/></p>
-
-<p><img src="media/15125658799576/15125686327532.jpg" alt=""/><br/>
-<em>Because there was so much white tone in the scene, exposure compensation was used. In order to get the white building to show as white, the exposure compensation dial was adjusted to “+1” or one stop more exposure.</em></p>
 
 ]]></content>
   </entry>
