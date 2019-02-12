@@ -1,0 +1,10 @@
+2019-02-10 08:09:53: File Monitoring not available on: ftp://67.218.138.18
+2019-02-10 08:09:53: Remote File System with No monitoring, disconnect
+2019-02-10 08:09:55: -- 分析开始 On File Change First Full Analyze Upon File Monitoring Start
+2019-02-10 08:09:57: On File Change Monitoring started on file:///Users/caoqian/Documents/WebSite/Category
+2019-02-10 08:10:45: 变更：1， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 7110
+2019-02-10 08:10:45: Left to Right: Delete File: 1 
+2019-02-10 08:10:45: == 同步开始由 On File Change First Full Analyze Upon File Monitoring Start
+2019-02-10 08:10:47: 删除文件 'ftp://67.218.138.18/网站相关 _ Websites.html'
+2019-02-10 08:10:50: == 同步完成. 历时: 00:00:05, 速度: 0.0/s, 完成: 1, 错误: 0
+2019-02-10 08:10:50: 

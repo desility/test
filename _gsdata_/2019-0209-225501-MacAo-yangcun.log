@@ -1,0 +1,448 @@
+2019-02-09 22:55:04: -- 分析开始 On File Change, After Delay
+2019-02-09 22:55:04: 左侧: State File has changed, so re-read it: /Users/caoqian/Documents/WebSite/Category/_gsdata_/_file_state_v4._gs
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/javascripts: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/javascripts: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/javascripts: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/javascripts: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/javascripts: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/javascripts: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/javascripts: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/javascripts: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/javascripts: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/javascripts: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/javascripts: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/javascripts: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/font: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/font: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/font: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/font: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/font: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/font: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/font: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/font: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/font: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/font: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/stylesheets: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/stylesheets: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/stylesheets: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/stylesheets: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images/: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/images: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/images: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/javascripts: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/javascripts: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/javascripts: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/javascripts: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/javascripts: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/javascripts: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/javascripts: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/javascripts: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/javascripts: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/javascripts: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/javascripts: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/javascripts: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/font: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/font: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/font: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/font: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/font: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/font: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/font: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/font: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/font: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/font: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/stylesheets: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/stylesheets: No such file or directory (error 2)
+2019-02-09 22:55:04: Intermediate folder not present: /asset/stylesheets: cannot lstat file /Users/caoqian/Documents/WebSite/Category/asset/stylesheets: No such file or directory (error 2)
+2019-02-09 22:55:04: /asset/highlightjs/highlight.pack.js: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/LICENSE: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/arta.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/ascetic.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/atelier-dune.dark.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/atelier-dune.light.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/atelier-forest.dark.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/atelier-forest.light.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/atelier-heath.dark.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/atelier-heath.light.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/atelier-lakeside.dark.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/atelier-lakeside.light.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/atelier-seaside.dark.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/atelier-seaside.light.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/brown_paper.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/brown_papersq.png: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/codepen-embed.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/color-brewer.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/dark.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/default.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/docco.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/far.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/foundation.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/github.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/googlecode.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/hybrid.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/idea.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/ir_black.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/kimbie.dark.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/kimbie.light.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/magula.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/mono-blue.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/monokai.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/monokai_sublime.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/obsidian.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/paraiso.dark.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/paraiso.light.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/pojoaque.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/pojoaque.jpg: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/railscasts.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/rainbow.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/school_book.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/school_book.png: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/solarized_dark.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/solarized_light.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/sunburst.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/tomorrow-night-blue.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/tomorrow-night-bright.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/tomorrow-night-eighties.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/tomorrow-night.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/tomorrow.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/vs.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/xcode.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: /asset/highlightjs/styles/zenburn.css: L:TimeSize<>; 警告：较旧的文件将替换较新的文件
+2019-02-09 22:55:04: 变更：306， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 7110
+2019-02-09 22:55:04: Left to Right: Copy File: 90 Delete File: 216 
+2019-02-09 22:55:04: == 同步开始由 On File Change, After Delay
+2019-02-09 22:55:05: 删除文件 'ftp://67.218.138.18/15488754532796.html'
+2019-02-09 22:55:05: 删除文件 'ftp://67.218.138.18/15488759245295.html'
+2019-02-09 22:55:05: 删除文件 'ftp://67.218.138.18/15489006138752.html'
+2019-02-09 22:55:05: 删除文件 'ftp://67.218.138.18/15489009430810.html'
+2019-02-09 22:55:05: 删除文件 'ftp://67.218.138.18/15489020435104.html'
+2019-02-09 22:55:06: 删除文件 'ftp://67.218.138.18/15489020627808.html'
+2019-02-09 22:55:06: 删除文件 'ftp://67.218.138.18/15489020979498.html'
+2019-02-09 22:55:06: 删除文件 'ftp://67.218.138.18/15489027394672.html'
+2019-02-09 22:55:06: 删除文件 'ftp://67.218.138.18/15489085035149.html'
+2019-02-09 22:55:06: 删除文件 'ftp://67.218.138.18/15489461191227.html'
+2019-02-09 22:55:06: 删除文件 'ftp://67.218.138.18/15489464034509.html'
+2019-02-09 22:55:06: 删除文件 'ftp://67.218.138.18/15489651912346.html'
+2019-02-09 22:55:06: 删除文件 'ftp://67.218.138.18/15489800873969.html'
+2019-02-09 22:55:06: 删除文件 'ftp://67.218.138.18/15490386721045.html'
+2019-02-09 22:55:07: 删除文件 'ftp://67.218.138.18/15490726182338.html'
+2019-02-09 22:55:07: 删除文件 'ftp://67.218.138.18/15490727467140.html'
+2019-02-09 22:55:07: 删除文件 'ftp://67.218.138.18/15490730271859.html'
+2019-02-09 22:55:07: 删除文件 'ftp://67.218.138.18/15491199202017.html'
+2019-02-09 22:55:07: 删除文件 'ftp://67.218.138.18/15491201239297.html'
+2019-02-09 22:55:07: 删除文件 'ftp://67.218.138.18/15491517438738.html'
+2019-02-09 22:55:07: 删除文件 'ftp://67.218.138.18/15491631190028.html'
+2019-02-09 22:55:07: 删除文件 'ftp://67.218.138.18/15491641978010.html'
+2019-02-09 22:55:07: 删除文件 'ftp://67.218.138.18/15491652924233.html'
+2019-02-09 22:55:08: 删除文件 'ftp://67.218.138.18/15491676278231.html'
+2019-02-09 22:55:08: 删除文件 'ftp://67.218.138.18/15491994910577.html'
+2019-02-09 22:55:08: 删除文件 'ftp://67.218.138.18/15492077339860.html'
+2019-02-09 22:55:08: 删除文件 'ftp://67.218.138.18/15492572516091.html'
+2019-02-09 22:55:08: 删除文件 'ftp://67.218.138.18/15493202049462.html'
+2019-02-09 22:55:08: 删除文件 'ftp://67.218.138.18/15493202836603.html'
+2019-02-09 22:55:08: 删除文件 'ftp://67.218.138.18/15493203914367.html'
+2019-02-09 22:55:08: 删除文件 'ftp://67.218.138.18/15493209866703.html'
+2019-02-09 22:55:08: 删除文件 'ftp://67.218.138.18/15493211846680.html'
+2019-02-09 22:55:09: 删除文件 'ftp://67.218.138.18/15493212690604.html'
+2019-02-09 22:55:09: 删除文件 'ftp://67.218.138.18/15493212740845.html'
+2019-02-09 22:55:09: 删除文件 'ftp://67.218.138.18/15493214273326.html'
+2019-02-09 22:55:09: 删除文件 'ftp://67.218.138.18/15493216164928.html'
+2019-02-09 22:55:09: 删除文件 'ftp://67.218.138.18/15493220267804.html'
+2019-02-09 22:55:09: 删除文件 'ftp://67.218.138.18/15493249114828.html'
+2019-02-09 22:55:09: 删除文件 'ftp://67.218.138.18/15493434506992.html'
+2019-02-09 22:55:09: 删除文件 'ftp://67.218.138.18/15493451781498.html'
+2019-02-09 22:55:09: 删除文件 'ftp://67.218.138.18/15493452697546.html'
+2019-02-09 22:55:10: 删除文件 'ftp://67.218.138.18/15493454301946.html'
+2019-02-09 22:55:10: 删除文件 'ftp://67.218.138.18/15493456064912.html'
+2019-02-09 22:55:10: 删除文件 'ftp://67.218.138.18/15493978106906.html'
+2019-02-09 22:55:10: 删除文件 'ftp://67.218.138.18/15494255484566.html'
+2019-02-09 22:55:10: 删除文件 'ftp://67.218.138.18/15494256473221.html'
+2019-02-09 22:55:10: 删除文件 'ftp://67.218.138.18/15495521851679.html'
+2019-02-09 22:55:10: 删除文件 'ftp://67.218.138.18/15496367642074.html'
+2019-02-09 22:55:10: 删除文件 'ftp://67.218.138.18/15496492722522.html'
+2019-02-09 22:55:10: 删除文件 'ftp://67.218.138.18/15496518592588.html'
+2019-02-09 22:55:10: 删除文件 'ftp://67.218.138.18/15496816544573.html'
+2019-02-09 22:55:11: 删除文件 'ftp://67.218.138.18/all_1.html'
+2019-02-09 22:55:11: 删除文件 'ftp://67.218.138.18/all_2.html'
+2019-02-09 22:55:11: 删除文件 'ftp://67.218.138.18/all_3.html'
+2019-02-09 22:55:11: 删除文件 'ftp://67.218.138.18/all_4.html'
+2019-02-09 22:55:11: 删除文件 'ftp://67.218.138.18/all_5.html'
+2019-02-09 22:55:11: 删除文件 'ftp://67.218.138.18/all_6.html'
+2019-02-09 22:55:11: 删除文件 'ftp://67.218.138.18/all_7.html'
+2019-02-09 22:55:11: 删除文件 'ftp://67.218.138.18/all_8.html'
+2019-02-09 22:55:11: 删除文件 'ftp://67.218.138.18/all_9.html'
+2019-02-09 22:55:12: 删除文件 'ftp://67.218.138.18/asset/css/screen.css'
+2019-02-09 22:55:12: 删除文件 'ftp://67.218.138.18/asset/img/bird_32_gray.png'
+2019-02-09 22:55:12: 删除文件 'ftp://67.218.138.18/asset/img/bird_32_gray_fail.png'
+2019-02-09 22:55:12: 删除文件 'ftp://67.218.138.18/asset/img/code_bg.png'
+2019-02-09 22:55:12: 删除文件 'ftp://67.218.138.18/asset/img/dotted-border.png'
+2019-02-09 22:55:12: 删除文件 'ftp://67.218.138.18/asset/img/email.png'
+2019-02-09 22:55:12: 删除文件 'ftp://67.218.138.18/asset/img/line-tile.png'
+2019-02-09 22:55:12: 删除文件 'ftp://67.218.138.18/asset/img/noise.png'
+2019-02-09 22:55:13: 删除文件 'ftp://67.218.138.18/asset/img/rss.png'
+2019-02-09 22:55:13: 删除文件 'ftp://67.218.138.18/asset/img/search.png'
+2019-02-09 22:55:13: 删除文件 'ftp://67.218.138.18/asset/js/jquery.min.js'
+2019-02-09 22:55:13: 删除文件 'ftp://67.218.138.18/asset/js/modernizr-2.0.js'
+2019-02-09 22:55:13: 删除文件 'ftp://67.218.138.18/asset/js/octopress.js'
+2019-02-09 22:55:13: 删除文件 'ftp://67.218.138.18/atom.xml'
+2019-02-09 22:55:13: 删除文件 'ftp://67.218.138.18/Basic_Photography.html'
+2019-02-09 22:55:13: 删除文件 'ftp://67.218.138.18/chenxianziti.html'
+2019-02-09 22:55:13: 删除文件 'ftp://67.218.138.18/Design.html'
+2019-02-09 22:55:14: 删除文件 'ftp://67.218.138.18/Ebooks.html'
+2019-02-09 22:55:14: 删除文件 'ftp://67.218.138.18/feixugouxiezuo.html'
+2019-02-09 22:55:14: 删除文件 'ftp://67.218.138.18/Link.html'
+2019-02-09 22:55:14: 删除文件 'ftp://67.218.138.18/Link_1.html'
+2019-02-09 22:55:14: 删除文件 'ftp://67.218.138.18/Link_2.html'
+2019-02-09 22:55:14: 删除文件 'ftp://67.218.138.18/links.html'
+2019-02-09 22:55:14: 删除文件 'ftp://67.218.138.18/media/15125648977119/15125651985670.jpg'
+2019-02-09 22:55:15: 删除文件 'ftp://67.218.138.18/media/15125648977119/15125654180250.jpg'
+2019-02-09 22:55:15: 删除文件 'ftp://67.218.138.18/media/15125648977119/15125654984576.jpg'
+2019-02-09 22:55:15: 删除文件 'ftp://67.218.138.18/media/15125648977119/15125655891208.jpg'
+2019-02-09 22:55:15: 删除文件 'ftp://67.218.138.18/media/15125648977119/15126530968777.jpg'
+2019-02-09 22:55:15: 删除文件夹 'ftp://67.218.138.18/media/15125648977119'
+2019-02-09 22:55:16: 删除文件 'ftp://67.218.138.18/media/15125658799576/15125667041456.jpg'
+2019-02-09 22:55:16: 删除文件 'ftp://67.218.138.18/media/15125658799576/15125668412029.jpg'
+2019-02-09 22:55:16: 删除文件 'ftp://67.218.138.18/media/15125658799576/15125674863224.jpg'
+2019-02-09 22:55:16: 删除文件 'ftp://67.218.138.18/media/15125658799576/15125675268067.jpg'
+2019-02-09 22:55:16: 删除文件 'ftp://67.218.138.18/media/15125658799576/15125676193300.jpg'
+2019-02-09 22:55:16: 删除文件 'ftp://67.218.138.18/media/15125658799576/15125676837596.jpg'
+2019-02-09 22:55:16: 删除文件 'ftp://67.218.138.18/media/15125658799576/15125679682934.jpg'
+2019-02-09 22:55:16: 删除文件 'ftp://67.218.138.18/media/15125658799576/15125682666569.jpg'
+2019-02-09 22:55:16: 删除文件 'ftp://67.218.138.18/media/15125658799576/15125684828461.jpg'
+2019-02-09 22:55:17: 删除文件 'ftp://67.218.138.18/media/15125658799576/15125685597034.jpg'
+2019-02-09 22:55:17: 删除文件 'ftp://67.218.138.18/media/15125658799576/15125686258996.jpg'
+2019-02-09 22:55:17: 删除文件 'ftp://67.218.138.18/media/15125658799576/15125686327532.jpg'
+2019-02-09 22:55:17: 删除文件 'ftp://67.218.138.18/media/15125658799576/15126530836735.jpg'
+2019-02-09 22:55:17: 删除文件夹 'ftp://67.218.138.18/media/15125658799576'
+2019-02-09 22:55:17: 删除文件 'ftp://67.218.138.18/media/15126472551837/15126477093002.jpg'
+2019-02-09 22:55:17: 删除文件 'ftp://67.218.138.18/media/15126472551837/15126478327981.jpg'
+2019-02-09 22:55:17: 删除文件 'ftp://67.218.138.18/media/15126472551837/15126479269431.jpg'
+2019-02-09 22:55:18: 删除文件 'ftp://67.218.138.18/media/15126472551837/15126481747962.jpg'
+2019-02-09 22:55:18: 删除文件 'ftp://67.218.138.18/media/15126472551837/15126482960051.jpg'
+2019-02-09 22:55:18: 删除文件 'ftp://67.218.138.18/media/15126472551837/15126484592744.jpg'
+2019-02-09 22:55:18: 删除文件 'ftp://67.218.138.18/media/15126472551837/15126486361958.jpg'
+2019-02-09 22:55:18: 删除文件夹 'ftp://67.218.138.18/media/15126472551837'
+2019-02-09 22:55:18: 删除文件 'ftp://67.218.138.18/media/15126505892325/15126506199885.jpg'
+2019-02-09 22:55:18: 删除文件 'ftp://67.218.138.18/media/15126505892325/15126506291723.jpg'
+2019-02-09 22:55:18: 删除文件 'ftp://67.218.138.18/media/15126505892325/15126506769604.jpg'
+2019-02-09 22:55:18: 删除文件 'ftp://67.218.138.18/media/15126505892325/15126525597735.jpg'
+2019-02-09 22:55:19: 删除文件 'ftp://67.218.138.18/media/15126505892325/15126526599758.jpg'
+2019-02-09 22:55:19: 删除文件 'ftp://67.218.138.18/media/15126505892325/15126527336486.jpg'
+2019-02-09 22:55:19: 删除文件 'ftp://67.218.138.18/media/15126505892325/15126527515017.jpg'
+2019-02-09 22:55:19: 删除文件 'ftp://67.218.138.18/media/15126505892325/15126528004955.jpg'
+2019-02-09 22:55:19: 删除文件 'ftp://67.218.138.18/media/15126505892325/15126528084879.jpg'
+2019-02-09 22:55:19: 删除文件 'ftp://67.218.138.18/media/15126505892325/15126529464157.jpg'
+2019-02-09 22:55:19: 删除文件夹 'ftp://67.218.138.18/media/15126505892325'
+2019-02-09 22:55:20: 删除文件 'ftp://67.218.138.18/media/15488754532796/15488755337908.jpg'
+2019-02-09 22:55:20: 删除文件夹 'ftp://67.218.138.18/media/15488754532796'
+2019-02-09 22:55:20: 删除文件 'ftp://67.218.138.18/media/15488759245295/15488759554881.jpg'
+2019-02-09 22:55:20: 删除文件夹 'ftp://67.218.138.18/media/15488759245295'
+2019-02-09 22:55:20: 删除文件 'ftp://67.218.138.18/media/15489006138752/15489007737702.jpg'
+2019-02-09 22:55:20: 删除文件 'ftp://67.218.138.18/media/15489006138752/15489008092291.jpg'
+2019-02-09 22:55:20: 删除文件夹 'ftp://67.218.138.18/media/15489006138752'
+2019-02-09 22:55:21: 删除文件 'ftp://67.218.138.18/media/15489009430810/15489010953686.png'
+2019-02-09 22:55:21: 删除文件夹 'ftp://67.218.138.18/media/15489009430810'
+2019-02-09 22:55:21: 删除文件 'ftp://67.218.138.18/media/15489085035149/006tKfTcgy1flx11nta4zg30hk0bskdz.gif'
+2019-02-09 22:55:21: 删除文件 'ftp://67.218.138.18/media/15489085035149/006tKfTcgy1flx120m504g30la09qkin.gif'
+2019-02-09 22:55:21: 删除文件 'ftp://67.218.138.18/media/15489085035149/006tNc79gy1fmytn28rkwg30iw0ayb29.gif'
+2019-02-09 22:55:21: 删除文件 'ftp://67.218.138.18/media/15489085035149/15489085612787.jpg'
+2019-02-09 22:55:21: 删除文件 'ftp://67.218.138.18/media/15489085035149/15489086794460.jpg'
+2019-02-09 22:55:21: 删除文件 'ftp://67.218.138.18/media/15489085035149/15489088622531.jpg'
+2019-02-09 22:55:22: 删除文件 'ftp://67.218.138.18/media/15489085035149/15489089134473.jpg'
+2019-02-09 22:55:22: 删除文件 'ftp://67.218.138.18/media/15489085035149/mvrl6.png'
+2019-02-09 22:55:22: 删除文件夹 'ftp://67.218.138.18/media/15489085035149'
+2019-02-09 22:55:22: 删除文件 'ftp://67.218.138.18/media/15489461191227/15489461359409.jpg'
+2019-02-09 22:55:22: 删除文件夹 'ftp://67.218.138.18/media/15489461191227'
+2019-02-09 22:55:22: 删除文件 'ftp://67.218.138.18/media/15489464034509/15489464256858.jpg'
+2019-02-09 22:55:22: 删除文件夹 'ftp://67.218.138.18/media/15489464034509'
+2019-02-09 22:55:23: 删除文件 'ftp://67.218.138.18/media/15489641826251/15489642045806.jpg'
+2019-02-09 22:55:23: 删除文件 'ftp://67.218.138.18/media/15489641826251/15489642538560.jpg'
+2019-02-09 22:55:23: 删除文件 'ftp://67.218.138.18/media/15489641826251/15489644056655.jpg'
+2019-02-09 22:55:23: 删除文件夹 'ftp://67.218.138.18/media/15489641826251'
+2019-02-09 22:55:23: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489652409535.jpg'
+2019-02-09 22:55:23: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489652856963.jpg'
+2019-02-09 22:55:23: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489652996945.jpg'
+2019-02-09 22:55:23: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489653122917.jpg'
+2019-02-09 22:55:23: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489653339613.jpg'
+2019-02-09 22:55:24: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489653435604.jpg'
+2019-02-09 22:55:24: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489653512267.jpg'
+2019-02-09 22:55:24: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489654197489.jpg'
+2019-02-09 22:55:24: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489654256100.jpg'
+2019-02-09 22:55:24: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489654297760.jpg'
+2019-02-09 22:55:24: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489654556558.jpg'
+2019-02-09 22:55:24: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489654595203.jpg'
+2019-02-09 22:55:24: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489654726091.jpg'
+2019-02-09 22:55:24: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489655061770.jpg'
+2019-02-09 22:55:25: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489655127451.jpg'
+2019-02-09 22:55:25: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489655863369.jpg'
+2019-02-09 22:55:25: 删除文件 'ftp://67.218.138.18/media/15489651912346/15489655951317.jpg'
+2019-02-09 22:55:25: 删除文件夹 'ftp://67.218.138.18/media/15489651912346'
+2019-02-09 22:55:25: 删除文件 'ftp://67.218.138.18/media/15490730271859/15490736283456.jpg'
+2019-02-09 22:55:25: 删除文件 'ftp://67.218.138.18/media/15490730271859/15490736856545.jpg'
+2019-02-09 22:55:26: 删除文件 'ftp://67.218.138.18/media/15490730271859/15490737708574.jpg'
+2019-02-09 22:55:26: 删除文件夹 'ftp://67.218.138.18/media/15490730271859'
+2019-02-09 22:55:26: 删除文件 'ftp://67.218.138.18/media/15491199202017/15491199219292.jpg'
+2019-02-09 22:55:26: 删除文件夹 'ftp://67.218.138.18/media/15491199202017'
+2019-02-09 22:55:27: 删除文件 'ftp://67.218.138.18/media/15491201239297/15491201320308.jpg'
+2019-02-09 22:55:27: 删除文件夹 'ftp://67.218.138.18/media/15491201239297'
+2019-02-09 22:55:27: 删除文件 'ftp://67.218.138.18/media/15491517438738/15491517741799.jpg'
+2019-02-09 22:55:27: 删除文件夹 'ftp://67.218.138.18/media/15491517438738'
+2019-02-09 22:55:28: 删除文件 'ftp://67.218.138.18/media/15491652924233/15491653091081.png'
+2019-02-09 22:55:28: 删除文件夹 'ftp://67.218.138.18/media/15491652924233'
+2019-02-09 22:55:28: 删除文件 'ftp://67.218.138.18/media/15491676278231/15491676731737.jpg'
+2019-02-09 22:55:28: 删除文件 'ftp://67.218.138.18/media/15491676278231/15491677527539.jpg'
+2019-02-09 22:55:28: 删除文件 'ftp://67.218.138.18/media/15491676278231/15491677641968.jpg'
+2019-02-09 22:55:28: 删除文件夹 'ftp://67.218.138.18/media/15491676278231'
+2019-02-09 22:55:29: 删除文件 'ftp://67.218.138.18/media/15491994910577/15491996402236.jpg'
+2019-02-09 22:55:29: 删除文件夹 'ftp://67.218.138.18/media/15491994910577'
+2019-02-09 22:55:29: 删除文件 'ftp://67.218.138.18/media/15492077339860/15492078521097.jpg'
+2019-02-09 22:55:29: 删除文件夹 'ftp://67.218.138.18/media/15492077339860'
+2019-02-09 22:55:30: 删除文件 'ftp://67.218.138.18/media/15494255484566/15494255692669.jpg'
+2019-02-09 22:55:30: 删除文件夹 'ftp://67.218.138.18/media/15494255484566'
+2019-02-09 22:55:30: 删除文件 'ftp://67.218.138.18/media/15494256473221/15494256707534.jpg'
+2019-02-09 22:55:30: 删除文件夹 'ftp://67.218.138.18/media/15494256473221'
+2019-02-09 22:55:31: 删除文件 'ftp://67.218.138.18/media/15495521851679/15495521920022.png'
+2019-02-09 22:55:31: 删除文件 'ftp://67.218.138.18/media/15495521851679/15495522454488.png'
+2019-02-09 22:55:31: 删除文件 'ftp://67.218.138.18/media/15495521851679/15495522553368.png'
+2019-02-09 22:55:31: 删除文件 'ftp://67.218.138.18/media/15495521851679/15495522646856.png'
+2019-02-09 22:55:31: 删除文件夹 'ftp://67.218.138.18/media/15495521851679'
+2019-02-09 22:55:32: 删除文件 'ftp://67.218.138.18/media/15496367642074/2019-02-08 08.40.11.jpg'
+2019-02-09 22:55:32: 删除文件夹 'ftp://67.218.138.18/media/15496367642074'
+2019-02-09 22:55:32: 删除文件 'ftp://67.218.138.18/media/15496492722522/15496493614642.jpg'
+2019-02-09 22:55:32: 删除文件 'ftp://67.218.138.18/media/15496492722522/15496495346381.jpg'
+2019-02-09 22:55:32: 删除文件夹 'ftp://67.218.138.18/media/15496492722522'
+2019-02-09 22:55:33: 删除文件 'ftp://67.218.138.18/media/15496518592588/15496519136472.png'
+2019-02-09 22:55:33: 删除文件夹 'ftp://67.218.138.18/media/15496518592588'
+2019-02-09 22:55:33: 删除文件 'ftp://67.218.138.18/media/15496816544573/15496816686826.jpg'
+2019-02-09 22:55:33: 删除文件 'ftp://67.218.138.18/media/15496816544573/15496816988613.jpg'
+2019-02-09 22:55:33: 删除文件 'ftp://67.218.138.18/media/15496816544573/15496818341143.jpg'
+2019-02-09 22:55:33: 删除文件夹 'ftp://67.218.138.18/media/15496816544573'
+2019-02-09 22:55:34: 删除文件 'ftp://67.218.138.18/PowerPoint.html'
+2019-02-09 22:55:34: 删除文件 'ftp://67.218.138.18/Resources.html'
+2019-02-09 22:55:34: 删除文件 'ftp://67.218.138.18/Resources_1.html'
+2019-02-09 22:55:34: 删除文件 'ftp://67.218.138.18/Resources_2.html'
+2019-02-09 22:55:34: 删除文件 'ftp://67.218.138.18/Resources_3.html'
+2019-02-09 22:55:34: 删除文件 'ftp://67.218.138.18/sitemap.xml'
+2019-02-09 22:55:34: 删除文件 'ftp://67.218.138.18/Story.html'
+2019-02-09 22:55:34: 删除文件 'ftp://67.218.138.18/thoughts.html'
+2019-02-09 22:55:34: 删除文件 'ftp://67.218.138.18/thoughts_1.html'
+2019-02-09 22:55:35: 删除文件 'ftp://67.218.138.18/Writing.html'
+2019-02-09 22:55:35: 创建文件夹 'ftp://67.218.138.18/asset/js/foundation'
+2019-02-09 22:55:35: 创建文件夹 'ftp://67.218.138.18/asset/js/vendor'
+2019-02-09 22:55:35: /Users/caoqian/Documents/WebSite/Category/all.html: Source file has changed between Analyze and Sync from '[file] size=11,057 accu-time=2019-02-09 22:54:36 attr=644 cktype=0' to 'size=14,395 time=2019-02-09 22:55:14', noted in source file state
+2019-02-09 22:55:35: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/all.html' -> 'ftp://67.218.138.18/all.html' (11,057)
+2019-02-09 22:55:36: /Users/caoqian/Documents/WebSite/Category/archives.html: Source file has changed between Analyze and Sync from '[file] size=3,046 accu-time=2019-02-09 22:54:36 attr=644 cktype=0' to 'size=5,410 time=2019-02-09 22:55:14', noted in source file state
+2019-02-09 22:55:36: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/archives.html' -> 'ftp://67.218.138.18/archives.html' (3,046)
+2019-02-09 22:55:37: /Users/caoqian/Documents/WebSite/Category/Ariel's New Slave.html: Source file has changed between Analyze and Sync from '[file] size=11,653 accu-time=2019-02-09 22:54:36 attr=644 cktype=0' to 'size=14,068 time=2019-02-09 22:55:14', noted in source file state
+2019-02-09 22:55:37: 新建复制 '/Users/caoqian/Documents/WebSite/Category/Ariel's New Slave.html' -> 'ftp://67.218.138.18/Ariel's New Slave.html' (11,653)
+2019-02-09 22:55:37: /Users/caoqian/Documents/WebSite/Category/asset/css/docs.css: Source file has changed between Analyze and Sync from '[file] size=10,678 accu-time=2018-07-01 14:17:32 attr=644 cktype=0' to 'size=22,490 time=2018-07-01 14:17:32', noted in source file state
+2019-02-09 22:55:37: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/css/docs.css' -> 'ftp://67.218.138.18/asset/css/docs.css' (10,678)
+2019-02-09 22:55:38: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/css/foundation.css' -> 'ftp://67.218.138.18/asset/css/foundation.css' (200,341)
+2019-02-09 22:55:39: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/css/foundation.min.css' -> 'ftp://67.218.138.18/asset/css/foundation.min.css' (158,544)
+2019-02-09 22:55:39: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/css/normalize.css' -> 'ftp://67.218.138.18/asset/css/normalize.css' (7,708)
+2019-02-09 22:55:40: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/highlight.pack.js' -> 'ftp://67.218.138.18/asset/highlightjs/highlight.pack.js' (46,330)
+2019-02-09 22:55:41: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/LICENSE' -> 'ftp://67.218.138.18/asset/highlightjs/LICENSE' (1,498)
+2019-02-09 22:55:41: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/arta.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/arta.css' (2,202)
+2019-02-09 22:55:43: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/ascetic.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/ascetic.css' (818)
+2019-02-09 22:55:44: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/atelier-dune.dark.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/atelier-dune.dark.css' (1,772)
+2019-02-09 22:55:45: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/atelier-dune.light.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/atelier-dune.light.css' (1,786)
+2019-02-09 22:55:45: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/atelier-forest.dark.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/atelier-forest.dark.css' (1,797)
+2019-02-09 22:55:46: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/atelier-forest.light.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/atelier-forest.light.css' (1,806)
+2019-02-09 22:55:46: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/atelier-heath.dark.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/atelier-heath.dark.css' (1,787)
+2019-02-09 22:55:47: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/atelier-heath.light.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/atelier-heath.light.css' (1,796)
+2019-02-09 22:55:48: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/atelier-lakeside.dark.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/atelier-lakeside.dark.css' (1,818)
+2019-02-09 22:55:48: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/atelier-lakeside.light.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/atelier-lakeside.light.css' (1,827)
+2019-02-09 22:55:49: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/atelier-seaside.dark.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/atelier-seaside.dark.css' (1,808)
+2019-02-09 22:55:49: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/atelier-seaside.light.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/atelier-seaside.light.css' (1,817)
+2019-02-09 22:55:50: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/brown_paper.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/brown_paper.css' (1,718)
+2019-02-09 22:55:51: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/brown_papersq.png' -> 'ftp://67.218.138.18/asset/highlightjs/styles/brown_papersq.png' (18,198)
+2019-02-09 22:55:51: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/codepen-embed.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/codepen-embed.css' (1,554)
+2019-02-09 22:55:52: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/color-brewer.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/color-brewer.css' (2,825)
+2019-02-09 22:55:52: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/dark.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/dark.css' (1,689)
+2019-02-09 22:55:53: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/default.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/default.css' (2,591)
+2019-02-09 22:55:53: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/docco.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/docco.css' (1,839)
+2019-02-09 22:55:54: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/far.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/far.css' (1,795)
+2019-02-09 22:55:55: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/foundation.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/foundation.css' (1,638)
+2019-02-09 22:55:55: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/github.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/github.css' (1,652)
+2019-02-09 22:55:56: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/googlecode.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/googlecode.css' (2,109)
+2019-02-09 22:55:56: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/hybrid.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/hybrid.css' (2,695)
+2019-02-09 22:55:57: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/idea.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/idea.css' (1,780)
+2019-02-09 22:55:58: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/ir_black.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/ir_black.css' (1,502)
+2019-02-09 22:55:58: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/kimbie.dark.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/kimbie.dark.css' (1,580)
+2019-02-09 22:55:59: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/kimbie.light.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/kimbie.light.css' (1,581)
+2019-02-09 22:55:59: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/magula.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/magula.css' (1,859)
+2019-02-09 22:56:00: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/mono-blue.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/mono-blue.css' (971)
+2019-02-09 22:56:01: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/monokai.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/monokai.css' (1,963)
+2019-02-09 22:56:01: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/monokai_sublime.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/monokai_sublime.css' (2,481)
+2019-02-09 22:56:02: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/obsidian.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/obsidian.css' (2,205)
+2019-02-09 22:56:02: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/paraiso.dark.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/paraiso.dark.css' (1,547)
+2019-02-09 22:56:03: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/paraiso.light.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/paraiso.light.css' (1,548)
+2019-02-09 22:56:04: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/pojoaque.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/pojoaque.css' (1,639)
+2019-02-09 22:56:04: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/pojoaque.jpg' -> 'ftp://67.218.138.18/asset/highlightjs/styles/pojoaque.jpg' (1,186)
+2019-02-09 22:56:05: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/railscasts.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/railscasts.css' (2,670)
+2019-02-09 22:56:05: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/rainbow.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/rainbow.css' (1,492)
+2019-02-09 22:56:06: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/school_book.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/school_book.css' (1,910)
+2019-02-09 22:56:07: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/school_book.png' -> 'ftp://67.218.138.18/asset/highlightjs/styles/school_book.png' (486)
+2019-02-09 22:56:07: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/solarized_dark.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/solarized_dark.css' (1,616)
+2019-02-09 22:56:08: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/solarized_light.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/solarized_light.css' (1,616)
+2019-02-09 22:56:09: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/sunburst.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/sunburst.css' (2,278)
+2019-02-09 22:56:09: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/tomorrow-night-blue.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/tomorrow-night-blue.css' (1,657)
+2019-02-09 22:56:10: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/tomorrow-night-bright.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/tomorrow-night-bright.css' (1,587)
+2019-02-09 22:56:10: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/tomorrow-night-eighties.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/tomorrow-night-eighties.css' (1,591)
+2019-02-09 22:56:11: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/tomorrow-night.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/tomorrow-night.css' (1,654)
+2019-02-09 22:56:12: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/tomorrow.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/tomorrow.css' (1,483)
+2019-02-09 22:56:12: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/vs.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/vs.css' (1,566)
+2019-02-09 22:56:13: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/xcode.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/xcode.css' (2,239)
+2019-02-09 22:56:13: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/asset/highlightjs/styles/zenburn.css' -> 'ftp://67.218.138.18/asset/highlightjs/styles/zenburn.css' (1,841)
+2019-02-09 22:56:14: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/humans.txt' -> 'ftp://67.218.138.18/asset/humans.txt' (237)
+2019-02-09 22:56:14: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/.gitkeep' -> 'ftp://67.218.138.18/asset/img/.gitkeep' (1)
+2019-02-09 22:56:15: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.abide.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.abide.js' (15,168)
+2019-02-09 22:56:15: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.accordion.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.accordion.js' (3,184)
+2019-02-09 22:56:16: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.alert.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.alert.js' (1,201)
+2019-02-09 22:56:16: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.clearing.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.clearing.js' (17,893)
+2019-02-09 22:56:17: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.dropdown.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.dropdown.js' (14,808)
+2019-02-09 22:56:17: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.equalizer.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.equalizer.js' (3,064)
+2019-02-09 22:56:18: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.interchange.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.interchange.js' (10,130)
+2019-02-09 22:56:19: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.joyride.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.joyride.js' (30,626)
+2019-02-09 22:56:19: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.js' (22,065)
+2019-02-09 22:56:20: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.magellan.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.magellan.js' (8,148)
+2019-02-09 22:56:20: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.offcanvas.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.offcanvas.js' (5,809)
+2019-02-09 22:56:21: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.orbit.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.orbit.js' (15,596)
+2019-02-09 22:56:21: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.reveal.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.reveal.js' (15,866)
+2019-02-09 22:56:22: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.slider.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.slider.js' (9,790)
+2019-02-09 22:56:22: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.tab.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.tab.js' (9,162)
+2019-02-09 22:56:23: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.tooltip.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.tooltip.js' (11,452)
+2019-02-09 22:56:24: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation/foundation.topbar.js' -> 'ftp://67.218.138.18/asset/js/foundation/foundation.topbar.js' (15,171)
+2019-02-09 22:56:24: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/foundation.min.js' -> 'ftp://67.218.138.18/asset/js/foundation.min.js' (106,144)
+2019-02-09 22:56:25: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/vendor/fastclick.js' -> 'ftp://67.218.138.18/asset/js/vendor/fastclick.js' (8,038)
+2019-02-09 22:56:25: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/vendor/jquery.cookie.js' -> 'ftp://67.218.138.18/asset/js/vendor/jquery.cookie.js' (1,415)
+2019-02-09 22:56:26: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/vendor/jquery.js' -> 'ftp://67.218.138.18/asset/js/vendor/jquery.js' (84,732)
+2019-02-09 22:56:27: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/vendor/modernizr.js' -> 'ftp://67.218.138.18/asset/js/vendor/modernizr.js' (11,264)
+2019-02-09 22:56:27: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/js/vendor/placeholder.js' -> 'ftp://67.218.138.18/asset/js/vendor/placeholder.js' (2,489)
+2019-02-09 22:56:28: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/robots.txt' -> 'ftp://67.218.138.18/asset/robots.txt' (106)
+2019-02-09 22:56:28: /Users/caoqian/Documents/WebSite/Category/index.html: Source file has changed between Analyze and Sync from '[file] size=11,057 accu-time=2019-02-09 22:54:36 attr=644 cktype=0' to 'size=14,395 time=2019-02-09 22:55:14', noted in source file state
+2019-02-09 22:56:28: 覆盖复制 '/Users/caoqian/Documents/WebSite/Category/index.html' -> 'ftp://67.218.138.18/index.html' (11,057)
+2019-02-09 22:56:31: == 同步完成. 历时: 00:01:27, 速度: 44.7 KB/s, 完成: 306, 错误: 0
+2019-02-09 22:56:31: 

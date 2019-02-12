@@ -1,0 +1,26 @@
+2019-02-09 22:58:04: -- 分析开始 On File Change, After Delay
+2019-02-09 22:58:05: 变更：20， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 7110
+2019-02-09 22:58:05: Left to Right: Copy File: 20 
+2019-02-09 22:58:05: == 同步开始由 On File Change, After Delay
+2019-02-09 22:58:05: 创建文件夹 'ftp://67.218.138.18/asset/img/social'
+2019-02-09 22:58:06: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/icon.jpg' -> 'ftp://67.218.138.18/asset/img/icon.jpg' (71,820)
+2019-02-09 22:58:07: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/behance.png' -> 'ftp://67.218.138.18/asset/img/social/behance.png' (244)
+2019-02-09 22:58:07: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/coderwall.png' -> 'ftp://67.218.138.18/asset/img/social/coderwall.png' (176)
+2019-02-09 22:58:08: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/delicious.png' -> 'ftp://67.218.138.18/asset/img/social/delicious.png' (1,064)
+2019-02-09 22:58:08: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/douban.png' -> 'ftp://67.218.138.18/asset/img/social/douban.png' (247)
+2019-02-09 22:58:09: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/email.png' -> 'ftp://67.218.138.18/asset/img/social/email.png' (208)
+2019-02-09 22:58:09: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/facebook.png' -> 'ftp://67.218.138.18/asset/img/social/facebook.png' (1,107)
+2019-02-09 22:58:10: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/github.png' -> 'ftp://67.218.138.18/asset/img/social/github.png' (1,205)
+2019-02-09 22:58:10: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/google.png' -> 'ftp://67.218.138.18/asset/img/social/google.png' (1,223)
+2019-02-09 22:58:11: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/instagram.png' -> 'ftp://67.218.138.18/asset/img/social/instagram.png' (263)
+2019-02-09 22:58:11: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/linkedin.png' -> 'ftp://67.218.138.18/asset/img/social/linkedin.png' (1,371)
+2019-02-09 22:58:12: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/pinboard.png' -> 'ftp://67.218.138.18/asset/img/social/pinboard.png' (445)
+2019-02-09 22:58:12: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/pinterest.png' -> 'ftp://67.218.138.18/asset/img/social/pinterest.png' (1,128)
+2019-02-09 22:58:13: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/quora.png' -> 'ftp://67.218.138.18/asset/img/social/quora.png' (249)
+2019-02-09 22:58:14: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/rss.png' -> 'ftp://67.218.138.18/asset/img/social/rss.png' (1,250)
+2019-02-09 22:58:14: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/stackoverflow.png' -> 'ftp://67.218.138.18/asset/img/social/stackoverflow.png' (260)
+2019-02-09 22:58:15: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/twitter.png' -> 'ftp://67.218.138.18/asset/img/social/twitter.png' (1,073)
+2019-02-09 22:58:15: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/weibo.png' -> 'ftp://67.218.138.18/asset/img/social/weibo.png' (1,803)
+2019-02-09 22:58:16: 新建复制 '/Users/caoqian/Documents/WebSite/Category/asset/img/social/weibo60.png' -> 'ftp://67.218.138.18/asset/img/social/weibo60.png' (3,941)
+2019-02-09 22:58:17: == 同步完成. 历时: 00:00:12, 速度: 20.5 KB/s, 完成: 20, 错误: 0
+2019-02-09 22:58:18: 
