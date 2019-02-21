@@ -4,7 +4,7 @@
   <title><![CDATA[羊村科技]]></title>
   <link href="https://desility.github.io/yangcun/atom.xml" rel="self"/>
   <link href="https://desility.github.io/yangcun/"/>
-  <updated>2019-02-17T09:48:30+08:00</updated>
+  <updated>2019-02-17T09:48:49+08:00</updated>
   <id>https://desility.github.io/yangcun/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://www.coderforart.com/">CoderForArt</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Use a shared folder with Time Machine on Mac]]></title>
+    <link href="https://desility.github.io/yangcun/15507533056823.html"/>
+    <updated>2019-02-21T20:48:25+08:00</updated>
+    <id>https://desility.github.io/yangcun/15507533056823.html</id>
+    <content type="html"><![CDATA[
+<p>You can set up a shared folder on a Mac that other Mac computers can use as a Time Machine backup destination. The folder must be located on an Apple File System (APFS) volume and shared using the SMB protocol.</p>
+
+<h2 id="toc_0">Set up a shared Time Machine backup folder</h2>
+
+<ol>
+<li><p>On your Mac, choose Apple menu  &gt; System Preferences, then click Sharing.</p></li>
+<li><p>Select the File Sharing tickbox.</p></li>
+<li><p>Click Options, make sure “Share files and folders using SMB” is selected, then click Done.</p></li>
+<li><p>Click the Add button <code>+</code> at the bottom of the Shared Folders list.</p></li>
+<li><p>Navigate to and select the folder you want to use for sharing, then click Add.</p></li>
+<li><p>Control-click the name of the folder, then choose Advanced Options.</p></li>
+<li><p>Make sure SMB is selected in the “Share over” pop-up menu.</p>
+<p>**Important: **You can’t use Apple Filing Protocol (AFP) to share a Time Machine backup destination.</p></li>
+<li><p>Select “Share as a Time Machine backup destination”.</p></li>
+<li><p>If desired, select “Limit backups to”, then enter a size.</p></li>
+<li><p>Click OK.</p></li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
@@ -921,24 +948,6 @@ Wifi万能钥匙官方源：wifi.sdo.com/release/iphone</p>
 <p>*地址：<a href="http://www.socew.cn">http://www.socew.cn</a></p>
 
 <p>需要的自己保存下来</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[实用网站]]></title>
-    <link href="https://desility.github.io/yangcun/15493454301946.html"/>
-    <updated>2019-02-05T13:43:50+08:00</updated>
-    <id>https://desility.github.io/yangcun/15493454301946.html</id>
-    <content type="html"><![CDATA[
-<ul>
-<li><p>小看吧：<a href="http://www.xiaokanba.com">http://www.xiaokanba.com</a></p></li>
-<li><p>电影蜜蜂：<a href="http://www.dybee.co/">http://www.dybee.co/</a></p></li>
-<li><p>Sky电影：<a href="http://api.skyrj.com/Home/dyList">http://api.skyrj.com/Home/dyList</a></p></li>
-<li><p>4K电影：<a href="https://www.4kdy.net/">https://www.4kdy.net/</a></p></li>
-<li><p>宅剧网：<a href="http://www.78big.com/">http://www.78big.com/</a></p></li>
-<li><p>看电影：<a href="https://kdy666.com/">https://kdy666.com/</a></p></li>
-</ul>
 
 ]]></content>
   </entry>
