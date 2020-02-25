@@ -1,0 +1,16 @@
+2020-02-18 19:32:35: On File Change Monitoring started on file:///Users/caoqian/Documents/WebSite/category
+2020-02-18 19:32:37: FTP: Server rejected UTF-8 that it promised us: Unknown command
+2020-02-18 19:32:37: File Monitoring not available on: ftp://67.218.138.147:21
+2020-02-18 19:32:37: Remote File System with No monitoring, disconnect
+2020-02-18 19:32:40: FTP: Server rejected UTF-8 that it promised us: Unknown command
+2020-02-18 19:32:42: -- 分析开始 On File Change First Full Analyze Upon File Monitoring Start
+2020-02-18 19:32:43: Name '网站相关 | Websites.html' in path '' contains illegal characters, using name '网站相关 _ Websites.html' instead
+2020-02-18 19:33:47: 变更：1， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 902
+2020-02-18 19:33:47: Left to Right: Delete File: 1 
+2020-02-18 19:33:47: == 同步开始由 On File Change First Full Analyze Upon File Monitoring Start
+2020-02-18 19:33:50: 删除文件 'ftp://67.218.138.147:21/.user.ini'
+- 错误: Server says: Rename/move failure: Operation not permitted, Deleting: Server says: Could not delete /_gsdata_/_history_/.user_2020-0218-193347.ini: No such file or directory
+2020-02-18 19:33:50: Start only 1 threads, limited by tasks to run
+2020-02-18 19:33:52: FTP: Server rejected UTF-8 that it promised us: Unknown command
+2020-02-18 19:34:02: == 同步完成. 历时: 00:00:15, 速度: 0.0/s, 完成: 0, 错误: 1
+2020-02-18 19:34:02: 

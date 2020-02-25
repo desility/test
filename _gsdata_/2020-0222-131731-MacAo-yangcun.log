@@ -1,0 +1,51 @@
+2020-02-22 13:42:00: FTP: Server rejected UTF-8 that it promised us: Unknown command
+2020-02-22 13:42:01: == 同步开始由 User Command
+2020-02-22 13:42:09: 删除文件 'ftp://67.218.138.147:21/5778d1da8436ee38/trojan-cli.zip'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/5778d1da8436ee38/trojan-cli_2020-0222-134205.zip: No such file or directory
+2020-02-22 13:42:12: 删除文件 'ftp://67.218.138.147:21/__MACOSX/._about.html'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/._about_2020-0222-134209.html: No such file or directory
+2020-02-22 13:42:13: 删除文件 'ftp://67.218.138.147:21/__MACOSX/._contact.html'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/._contact_2020-0222-134212.html: No such file or directory
+2020-02-22 13:42:14: 删除文件 'ftp://67.218.138.147:21/__MACOSX/._css'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/_2020-0222-134213._css: No such file or directory
+2020-02-22 13:42:15: 删除文件 'ftp://67.218.138.147:21/__MACOSX/._fonts'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/_2020-0222-134214._fonts: No such file or directory
+2020-02-22 13:42:17: 删除文件 'ftp://67.218.138.147:21/__MACOSX/._gallery.html'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/._gallery_2020-0222-134215.html: No such file or directory
+2020-02-22 13:42:19: 删除文件 'ftp://67.218.138.147:21/__MACOSX/._icons.html'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/._icons_2020-0222-134217.html: No such file or directory
+2020-02-22 13:42:19: 删除文件 'ftp://67.218.138.147:21/__MACOSX/._images'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/_2020-0222-134219._images: No such file or directory
+2020-02-22 13:42:20: 删除文件 'ftp://67.218.138.147:21/__MACOSX/._index.html'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/._index_2020-0222-134219.html: No such file or directory
+2020-02-22 13:42:21: 删除文件 'ftp://67.218.138.147:21/__MACOSX/._js'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/_2020-0222-134220._js: No such file or directory
+2020-02-22 13:42:23: 删除文件 'ftp://67.218.138.147:21/__MACOSX/._single.html'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/._single_2020-0222-134221.html: No such file or directory
+2020-02-22 13:42:23: 删除文件 'ftp://67.218.138.147:21/__MACOSX/._trojan.txt'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/._trojan_2020-0222-134223.txt: No such file or directory
+2020-02-22 13:42:24: 删除文件 'ftp://67.218.138.147:21/__MACOSX/._typography.html'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/._typography_2020-0222-134223.html: No such file or directory
+2020-02-22 13:42:29: 删除文件 'ftp://67.218.138.147:21/__MACOSX/css/._bootstrap.css'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/css/._bootstrap_2020-0222-134224.css: No such file or directory
+2020-02-22 13:42:32: 删除文件 'ftp://67.218.138.147:21/__MACOSX/css/._font-awesome.css'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/css/._font-awesome_2020-0222-134229.css: No such file or directory
+2020-02-22 13:42:33: 删除文件 'ftp://67.218.138.147:21/__MACOSX/css/._lightbox.css'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/css/._lightbox_2020-0222-134232.css: No such file or directory
+2020-02-22 13:42:33: 删除文件 'ftp://67.218.138.147:21/__MACOSX/css/._style.css'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/css/._style_2020-0222-134233.css: No such file or directory
+2020-02-22 13:42:36: 删除文件 'ftp://67.218.138.147:21/__MACOSX/fonts/._fontawesome-webfont.eot'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/fonts/._fontawesome-webfont_2020-0222-134233.eot: No such file or directory
+2020-02-22 13:42:36: 删除文件 'ftp://67.218.138.147:21/__MACOSX/fonts/._fontawesome-webfont.svg'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/fonts/._fontawesome-webfont_2020-0222-134236.svg: No such file or directory
+2020-02-22 13:42:37: 删除文件 'ftp://67.218.138.147:21/__MACOSX/fonts/._fontawesome-webfont.ttf'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/fonts/._fontawesome-webfont_2020-0222-134236.ttf: No such file or directory
+2020-02-22 13:42:38: 删除文件 'ftp://67.218.138.147:21/__MACOSX/fonts/._fontawesome-webfont.woff'
+- 错误: Server says: Rename/move failure: Permission denied, Deleting: Server says: Could not delete /_gsdata_/_history_/__MACOSX/fonts/._fontawesome-webfont_2020-0222-134237.woff: No such file or directory
+2020-02-22 13:42:38: Stop requested by User Request: #1
+2020-02-22 13:42:38: Socket of 67.218.138.147:21 disconnected from OUTside. owner=28707
+2020-02-22 13:42:38: 删除文件 'ftp://67.218.138.147:21/__MACOSX/fonts/._fontawesome-webfont.woff2'
+- 错误: stopped by User Request
+2020-02-22 13:42:45: FTP: Server rejected UTF-8 that it promised us: Unknown command
+2020-02-22 13:42:51: stopped by User Request
+2020-02-22 13:42:51: 

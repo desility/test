@@ -1,0 +1,24 @@
+2020-02-19 11:07:43: FTP: Server rejected UTF-8 that it promised us: Unknown command
+2020-02-19 11:07:44: File Monitoring not available on: ftp://67.218.138.147:21
+2020-02-19 11:07:44: Remote File System with No monitoring, disconnect
+2020-02-19 11:07:44: On File Change Monitoring started on file:///Users/caoqian/Documents/WebSite/category
+2020-02-19 11:08:22: FTP: Server rejected UTF-8 that it promised us: Unknown command
+2020-02-19 11:08:24: -- 分析开始 On File Change First Full Analyze Upon File Monitoring Start
+2020-02-19 11:08:25: Name '网站相关 | Websites.html' in path '' contains illegal characters, using name '网站相关 _ Websites.html' instead
+2020-02-19 11:10:07: FTP: Server rejected UTF-8 that it promised us: Unknown command
+2020-02-19 11:13:07: FTP: Server rejected UTF-8 that it promised us: Unknown command
+2020-02-19 11:15:30: FTP: Server rejected UTF-8 that it promised us: Unknown command
+2020-02-19 11:17:47: FTP: Server rejected UTF-8 that it promised us: Unknown command
+2020-02-19 11:20:33: 变更：6， 冲突：0， 复制时间：0， 复制状态：0， 错误： 0, All: 975
+2020-02-19 11:20:33: Left to Right: Delete File: 6 
+2020-02-19 11:20:33: == 同步开始由 On File Change First Full Analyze Upon File Monitoring Start
+2020-02-19 11:20:35: 删除文件 'ftp://67.218.138.147:21/.user.ini'
+- 错误: Server says: Rename/move failure: Operation not permitted, Deleting: Server says: Could not delete /_gsdata_/_history_/.user_2020-0219-112033.ini: No such file or directory
+2020-02-19 11:20:37: 删除文件 'ftp://67.218.138.147:21/.well-known/acme-challenge/vT0vtiO4d58yaX8ua_C5ZRBqcUPG6tqFR4CC8bdSSvk'
+2020-02-19 11:20:38: 删除文件夹 'ftp://67.218.138.147:21/.well-known/acme-challenge'
+2020-02-19 11:20:39: 删除文件 'ftp://67.218.138.147:21/.well-known/pki-validation/fileauth.txt'
+2020-02-19 11:20:40: 删除文件夹 'ftp://67.218.138.147:21/.well-known/pki-validation'
+2020-02-19 11:20:40: 删除文件夹 'ftp://67.218.138.147:21/.well-known'
+2020-02-19 11:20:40: Start only 1 threads, limited by tasks to run
+2020-02-19 11:23:15: [connecting 67.218.138.147:21]: Time out
+2020-02-19 11:23:15: 

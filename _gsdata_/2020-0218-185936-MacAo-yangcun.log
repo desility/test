@@ -1,0 +1,4 @@
+2020-02-18 19:01:30: FTP: Server rejected UTF-8 that it promised us: Unknown command
+2020-02-18 19:01:30: == 同步开始由 User Command
+2020-02-18 19:01:31: Error locking folder: uploading lock file: chdir when upload: /_gsdata_/lock.gsl: Server says: Can't change directory to /_gsdata_: No such file or directory
+2020-02-18 19:01:31: 
